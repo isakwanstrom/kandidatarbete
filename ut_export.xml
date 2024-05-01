@@ -1,0 +1,937 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="transformation.xsl"?>
+<regelbok>
+  <text klass="info">Regelbok</text>
+  <text klass="info">Att vända strömmen</text>
+  <rubrik namn="1. Allmänt" klass="heading1">
+    <text klass="rubriktext">Välkommen till regelboken för "Att Vända Strömmen" – det megaspel vi utvecklat för att utforska och främja konstruktiva samtal om hållbara samhällstransformationer, en central komponent i FNs Agenda 2030. Med detta spel strävar vi efter att skapa en klimatneutral region med hög livskvalitet, i linje med Riksdagens beslut från 2017.</text>
+    <text klass="rubriktext">Genom att dyka in i spelet kommer du och ditt team att utforska regionen från olika perspektiv, där olika samhällsgrupper och deras beroenden samt materiella förutsättningar står i fokus. Syftet är att få en djupare förståelse för de möjligheter och utmaningar som möter oss på vägen mot en hållbar framtid.</text>
+    <text klass="rubriktext">I detta dokument kommer du att få en översiktlig bild av spelets roller, centrala delar av spelet och framför allt vad som utmärker just din och ditt teams roller. Kom ihåg att du endast behöver förstå reglerna som gäller för din egen roll, men att det kan vara fördelaktigt att ha överblick över hela spelet för att kunna samarbeta effektivt.</text>
+    <text klass="rubriktext">För att underlätta kommunikationen och förhöja spelupplevelsen, kommer det att vara mycket rörelse och interaktion under spelets gång. Ju tydligare och mer synlig din roll är för övriga deltagare, desto smidigare och roligare blir spelet.</text>
+    <text klass="rubriktext">Så låt oss tillsammans utforska möjligheterna att vända strömmen och skapa en mer hållbar framtid för vår region och planeten som helhet. Lycka till och låt spelet börja!</text>
+  </rubrik>
+  <rubrik namn="2. Orienteringsstöd" klass="heading1">
+    <img src="bilder/image_1.png"/>
+  </rubrik>
+  <rubrik namn="3. Markers &amp; Tokens" klass="heading1">
+    <underrubrik namn="3.1 Markers" klass="heading2">
+      <img src="bilder/image_2.png"/>
+      <img src="bilder/image_3.png"/>
+    </underrubrik>
+    <underrubrik namn="3.2 Food MARKERS" klass="heading2">
+      <img src="bilder/image_4.png"/>
+    </underrubrik>
+    <underrubrik namn="3.3 TRACKERS" klass="heading2">
+      <img src="bilder/image_5.png"/>
+    </underrubrik>
+  </rubrik>
+  <rubrik namn="4. Spelets faser" klass="heading1">
+    <text klass="rubriktext">Spelet "Att Vända Strömmen" genomförs i en serie av rundor, var och en motsvarande fem år av spelsimulationen. Varje runda är uppdelad i faser som varar i högst 60 minuter och fokuserar på olika aspekter av spelets progression.</text>
+    <underrubrik namn="4.1. Teamfas" klass="heading2">
+      <text klass="info">I Teamfasen samlas spelarna vid sitt bord och beslutar vilka mål de vill uppnå under den kommande rundan. Det är en strategisk diskussionsfas där deltagarna samarbetar för att formulera sina mål och planera sin taktik för att uppnå dem.</text>
+    </underrubrik>
+    <underrubrik namn="4.2. Interaktionsfas" klass="heading2">
+      <text klass="info">Interaktionsfasen är hjärtat av spelet, där spelarna arbetar aktivt för att försöka uppnå sina individuella och kollektiva mål. Detta innebär vanligtvis förhandlingar med andra spelarbord eller spelledare för att nå ömsesidigt gynnsamma lösningar eller överenskommelser.</text>
+    </underrubrik>
+    <underrubrik namn="4.3. Resolvefas" klass="heading2">
+      <text klass="info">Efter avslutad Interaktionsfas följer Resolvefasen, där spelarna och spelledarna utvärderar och stämmer av varje spelbords framsteg och tillstånd under rundan. Detta inkluderar en bedömning av hur väl målen uppnåddes och eventuella konsekvenser av de beslut som fattats. Det ger också en möjlighet för reflektion och justering inför nästa runda.</text>
+    </underrubrik>
+  </rubrik>
+  <rubrik namn="5. Generiska handlingar" klass="heading1">
+    <text klass="rubriktext">Dessa är handlingar som fungerar på samma sätt för alla spelbord</text>
+    <underrubrik namn="5.1. Kontrakt" klass="heading2">
+      <underrubrik namn="5.1.1. Hur fungerar kontrakt?" klass="heading3">
+        <text klass="info">I spelet har spelarna möjlighet att ingå kontrakt och handelsavtal med varandra för att säkerställa tillgång till varor och tjänster som behövs för att uppnå sina mål. Det är viktigt att notera följande regler gällande kontrakt:</text>
+        <text klass="info">Kontraktsparter: Kontrakt kan upprättas mellan vilka spelare som helst utom forskare. Detta innebär att olika samarbetsmöjligheter kan utforskas mellan olika aktörer i spelet.</text>
+        <text klass="info">Innehåll och Varaktighet: Ett kontrakt representerar ett avtal om en vara eller tjänst och gäller tills någon part säger upp det. Det är en bindande överenskommelse som måste respekteras av båda parter.</text>
+        <text klass="info">Dokumentation och Sparande: Köpare och säljare får var sin kopia av kontraktet, vilka sparas på respektive bord för referens. Det är viktigt att ha en tydlig dokumentation av alla avtal för att undvika missförstånd och tvister.</text>
+        <text klass="info">Innehåll i Kontraktet: I kontraktet ska det tydligt specificeras vad och hur mycket (antal) som köpts och till vilken kostnad. Detta ger klarhet kring de överenskomna villkoren och underlättar uppföljning av affärstransaktionerna.</text>
+        <text klass="info">Budget och Resursjusteringar: Efter att ett kontrakt har ingåtts måste aktörernas budgetar och tillgängliga resurser anpassas enligt avtalet. Detta innebär att eventuella förändringar i tillgängliga resurser måste återspeglas genom att flytta markörer eller justera ekonomiska tillgångar.</text>
+        <text klass="info">Engångskostnader: Engångskostnader, som betalas direkt från kassan, ska inte skrivas upp i kontraktet. Dessa utgifter är enkla transaktioner som inte kräver en långsiktig överenskommelse.</text>
+      </underrubrik>
+      <underrubrik namn="5.1.2. Hur skapar man ett kontrakt?" klass="heading3">
+        <text klass="info">Överenskommelse av Villkor: Först och främst måste spelarna komma överens om vad som ska säljas eller köpas och i vilken kvantitet, samt till vilket pris. Detta kan göras genom förhandling och diskussion mellan de involverade parterna.</text>
+        <text klass="info">Upprättande av Kontrakt: När villkoren är klara, upprättas kontraktet i två exemplar. Kontraktet bör numreras för enkel identifiering och för att underlätta spårbarhet.</text>
+        <text klass="info">Specifikationer i Kontraktet: Kontraktet ska innehålla information om vilka som är säljare och köpare, vad som säljs eller köps, och hur mycket (antal) till vilket pris. Denna information bör vara tydligt angiven för att undvika missförstånd.</text>
+        <text klass="info">Kopior för Båda Parter: Både säljaren och köparen behöver få varsin kopia av det upprättade kontraktet. Detta säkerställer att båda parter har en dokumentation av avtalet för framtida referens.</text>
+        <text klass="info">Justering av Markörer: Efter att kontraktet har upprättats kan spelarna behöva justera sina ekonomiska markörer enligt de överenskomna villkoren. Detta kan inkludera att flytta markörer för att återspegla förändringar i budget eller tillgängliga resurser.</text>
+        <text klass="info">Uppsägningsmöjlighet: Det är viktigt att komma ihåg att ett kontrakt kan sägas upp av någon av parterna när som helst, dock inte under samma runda som det upprättades. Detta ger flexibilitet för spelarna att anpassa sig till förändrade omständigheter eller strategier.<img src="bilder/image_6.png"/></text>
+      </underrubrik>
+    </underrubrik>
+    <underrubrik namn="5.2 Underhåll av anläggningar" klass="heading2">
+      <text klass="info">Vid slutet av varje omgång är det dags för underhåll av alla anläggningar. Underhållsbehovet för varje anläggning representeras genom att skiftnycklar (se bild nedan) läggs på anläggningarna, normalt en per anläggning och omgång. För att reparera anläggningar kan spelarna välja att använda kort som "Skilled engineers" till höger om situationen. För att utföra underhåll måste alla spelare som äger anläggningar slå för MAINTENANCE genom att rulla två tärningar och sedan lägga till antalet skiftnycklar som redan är placerade på anläggningen till summan av tärningarna. Till exempel, om tärningarna visar 2 och 4, och anläggningen har tre skiftnycklar på sig, blir summan 2 + 4 + 3 = 9. Detta resulterar i att en extra skiftnyckel läggs till på anläggningen tills nästa omgång (se MAINTENANCE-kortet för ytterligare detaljer).<img src="bilder/image_7.png"/></text>
+      <text klass="info">För summor av 17 och högre anses anläggningen vara förstörd och kan inte längre användas. Detta innebär att spelaren måste ta itu med förlusten av anläggningen och eventuella konsekvenser som detta kan medföra för deras strategi och framgång i spelet. Se till att vara försiktig med underhållet av dina anläggningar för att undvika sådana katastrofala utfall.<img src="bilder/image_8.png"/><img src="bilder/image_9.png"/></text>
+    </underrubrik>
+    <underrubrik namn="5.3 Koldioxidavtryck" klass="heading2">
+      <text klass="info">Under Resolvefasen i spelet beräknas koldioxidavtrycket genom att spelarna samlar svarta stenar till sitt bord från platsen som kallas "Historically emitted CO2" på spelplanen. Här är hur det går till:<img src="bilder/image_10.png"/></text>
+      <text klass="info">Samlingsprocess: För varje bricka med grå bakgrund på spelplanen tilldelas bordet en svart sten, vilket motsvarar 1000 ton koldioxidutsläpp. Denna symboliserar den historiska koldioxidutsläppsnivån från den specifika regionen.</text>
+      <text klass="info">Prioriteringsordning: Spelarna börjar med att ta stenar från 1,5°-budgeten, som representerar den önskade målet att begränsa den globala uppvärmningen till 1.5 grader Celsius över förindustriell nivå. Därefter tar de stenar från 2°C-budgeten och slutligen från 2,4°C-budgeten.</text>
+    </underrubrik>
+    <underrubrik namn="5.4 Projektkort" klass="heading2">
+      <text klass="info">I vårt spel är projektkorten uppdelade i fem olika kategorier som representerar olika inriktningar för samhällets omställning. Kategorierna visas tydligt längst upp till höger på projektkorten. Projekten inom samma kategori tenderar att sträva åt samma håll, vilket ger spelarna möjlighet att skapa strategier baserade på gemensamma mål.</text>
+      <text klass="info">QR-kod för Mer Information: På varje projektkort finns en QR-kod längst ner till höger som leder till webbplatser där spelarna kan läsa mer om tankarna bakom kortens innehåll. Detta ger en möjlighet till fördjupning och förståelse för de olika strategierna och deras bakgrund.<img src="bilder/image_11.png"/></text>
+      <text klass="info">Omedelbara Effekter och Kapitalanvändning: Projektkorten erbjuder omedelbara effekter och spelarna kan använda fritt kapital för att betala för dessa. Detta ger spelarna möjlighet att direkt påverka spelets utveckling och ta snabba beslut för att främja sina strategier.</text>
+      <text klass="info">Forskning och Resurskrav: Vissa projektkort kräver forskning av olika slag, representerad av hexagonala forskningsbrickor. Symbolerna längst upp till vänster på kortet indikerar vilka typer av forskningsresurser som krävs för att spela kortet. Spelarna kan ta kontakt med forskarna för att få hjälp att få tillgång till dessa forskningsresurser och därigenom kunna dra nytta av kortets fördelar.</text>
+    </underrubrik>
+    <underrubrik namn="5.5 Workforce" klass="heading2">
+      <text klass="info">I spelet är arbetskraftsbrickorna avgörande för att driva olika typer av företag och offentlig verksamhet. Här är några viktiga regler gällande arbetskraftsbrickorna:<img src="bilder/image_12.png"/></text>
+      <text klass="info">Arbetskraftsbrickorna kommer från olika befolkningsgrupper och har olika färger på bården runt brickan för att indikera detta. Detta återspeglar mångfalden och specialiseringen hos arbetskraften i samhället.</text>
+      <text klass="info">Arbetskraftsbrickorna kan bara bemanna jobb där deras färg finns representerad. Detta innebär att en arbetskraftsbricka endast kan användas i företag eller offentliga verksamheter där dess befolkningsgrupp är närvarande.<img src="bilder/image_13.png"/></text>
+      <text klass="info">I vissa fall kan arbetskraftsbrickor ersättas av robotarbetskraft, särskilt inom vissa områden som regionala industrier. Detta gör det möjligt för spelarna att effektivisera sin verksamhet och öka produktiviteten med hjälp av modern teknologi.</text>
+    </underrubrik>
+    <underrubrik namn="5.6 Aktieutdelning" klass="heading2">
+      <text klass="info">Spelaren måste placera minst så många $ på varje aktiekapital som motsvarar det belopp som anges av "Dividends per share" markören på deras spelbräde.</text>
+      <text klass="info">Exempel: Om "Dividends per share" markören ligger på $2 betyder det att spelarna måste spendera minst $2 per aktiekapital de äger för att kunna erhålla utdelning.<img src="bilder/image_14.png"/><img src="bilder/image_15.png"/></text>
+      <text klass="info">Om det belopp som spelaren behöver spendera för aktieutdelning är lägre än det värde som finns angivet på deras "share capital", kommer följande att inträffa:</text>
+      <text klass="info">Om spelaren har tillräckligt med pengar för att betala det lägre beloppet, byts aktiekapitalet ut till en lila aktiekapitalbricka.<img src="bilder/image_16.png"/><img src="bilder/image_17.png"/></text>
+      <text klass="info">Om spelaren inte har tillräckligt med pengar för att betala det lägre beloppet blir aktiekapitalet istället en svart bricka, vilket innebär att det blir en skuld för spelaren.</text>
+    </underrubrik>
+    <underrubrik namn="5.7 Ekonomisk balans - Bokslut" klass="heading2">
+      <text klass="info">I spelet genomförs en ekonomisk balansräkning vid RESOLVE-fasen för många spelbord. Här är hur det går till:</text>
+      <text klass="info">Beräkning av Ekonomisk Balans: Ekonomisk balans räknas ut genom att jämföra INKOMSTER med UTGIFTER för varje spelbord.</text>
+      <text klass="info">Reglering av Skillnaden: Om det finns en positiv skillnad mellan INKOMSTER och UTGIFTER, erhåller spelarna den överskjutande summan som kontanta medel. Till exempel, om inkomsten är $23 och utgifterna är $19, får spelarna $23 - $19 = $4 i kontanta medel (se exempel nedan).</text>
+      <text klass="info">Hantering av Negativt Utfall: Om utfallet är negativt och INKOMSTERNA är mindre än UTGIFTERNA måste spelarna betala skillnaden till spelet. Om spelarna inte har tillräckligt med kontanter för att täcka denna skillnad måste de antingen sälja något från sin tillgång eller låna pengar från banken eller andra spelare för att täcka underskottet.<img src="bilder/image_18.png"/><img src="bilder/image_19.png"/><img src="bilder/image_20.png"/></text>
+    </underrubrik>
+  </rubrik>
+  <rubrik namn="6. Kartan" klass="heading1">
+    <underrubrik namn="6.1. Ägande" klass="heading2">
+      <text klass="info">Varje ruta på kartan är associerad med en specifik ägare. Till exempel, i exemplet nedan ägs rutan av "Food suppliers". Detta innebär att ägaren av rutan har auktoritet över den och måste godkänna eventuella nya anläggningar eller förändringar som ska göras inom dess område.<img src="bilder/image_21.png"/></text>
+    </underrubrik>
+    <underrubrik namn="6.2. Byggnader" klass="heading2">
+      <text klass="info">På kartan finns fyra typer av bebyggelse, var och en representerad av brickor med olika färger och symboler:</text>
+      <text klass="info">Industribyggnader: Tillhör Regional Industries (lila bård) och Elementa (brun bård).</text>
+      <text klass="info">Universitetsbyggnader: Tillhör Researchers (ljusgrön bård).</text>
+      <text klass="info">Vård, Skola och Omsorg (VSO): Markeras med en ljusblå bård.</text>
+      <text klass="info">Bostäder för olika inkomstgrupper: Bostäder för höginkomsttagare markeras med en röd bård, medelinkomsttagare med en grön bård och låginkomsttagare med en blå bård.</text>
+      <text klass="info">Följande regler gäller för byggandet av nya byggnader på spelbrädet:</text>
+      <text klass="info">Varje ny byggnad av någon av ovanstående fyra typer måste placeras på en motsvarande plats på kartan. Elementa har exempelvis tre District heating-anläggningar där två ligger i Linköping, som visas nedan.<img src="bilder/image_22.png"/></text>
+      <text klass="info">Förhållandet mellan antalet hus och befolkningsmarkörer (de runda markerna) återspeglar trångboddheten i olika befolkningsgrupper. Det totala antalet befolkningsmarkörer indikerar storleken på befolkningsgruppen.</text>
+    </underrubrik>
+    <underrubrik namn="6.3. Vägar &amp; transporter" klass="heading2">
+      <text klass="info">I spelet finns det vägar som kan hantera olika typer av fordon. Till exempel kan en 3-väg hantera avfallsbilar, transporter och höginkomsttagarnas bilar. Här är några viktiga regler och förhållanden som gäller för transport av fordon på kartan:</text>
+      <text klass="info">Hantering av Fordonstyper på Vägar: Varje typ av väg kan hantera olika typer av fordon. Till exempel kan en 3-väg på ett ställe hantera avfallsbilar, transporter och höginkomsttagarnas bilar, medan en annan 3-väg kan hantera kollektivtrafik samt biltrafik för medel- och låginkomsttagare. Fordonstyperna måste anpassas efter vägarnas kapacitet och syfte.</text>
+      <text klass="info">Antal Bilar och Transportbehov: Antalet bilar som behöver transporteras på hela kartan motsvarar antalet energibrickor (bränsle eller el) på befolkningsbordens transportbricka, specifikt kategorierna "Commuting" och "Shopping &amp; hobbies". Bilarna finns i områden där respektive befolkningsgrupp också bor.</text>
+      <text klass="info">Kollektivtrafik: Kollektivtrafik kan hantera 2 befolkningsmarkörer var. Till exempel kan tre låginkomsttagare pendla till arbetet med hjälp av en bil och en buss, om det finns tillgängligt.</text>
+      <text klass="info">Lastbilstillägg: För varje 40:e transport som levereras av transportföretagen läggs en lastbil ut på en väg i samma ruta som en industribyggnad. Detta bidrar till att simulera transportverksamhetens omfattning och effektivitet.</text>
+      <text klass="info">Sophanteringsbil: Om det finns fler än 5 befolkningsmarkörer på en ruta krävs också en sophanteringsbil för att hantera avfall. Detta säkerställer att städer och samhällen effektivt hanterar sitt avfall och håller områdena rena och trivsamma.</text>
+    </underrubrik>
+    <underrubrik namn="6.4. Jordbruk och skogsbruk" klass="heading2">
+      <text klass="info">Skogsbruk: För att bedriva skogsbruk placeras en skördare, representerad av en bricka med ljusgrön bård, på en skogsruta på spelplanen. Detta indikerar att skogen skördas för trä eller andra skogsråvaror.</text>
+      <text klass="info">Jordbruk: För att bedriva jordbruk placeras en traktor på varje ruta på jordbruksmarken, vilket visas i exemplet nedan till vänster. Detta indikerar att marken bearbetas för att odla grödor eller boskap.<img src="bilder/image_23.png"/><img src="bilder/image_24.png"/></text>
+      <text klass="info">Krav för Skogsbruk &amp; Jordbruk: Skogsbruk och jordbruk kan bara bedrivas om det finns en fungerande väg i området. Vägen är nödvändig för att transportera skogsråvaror och jordbruksprodukter till marknaden eller andra destinationer.</text>
+    </underrubrik>
+  </rubrik>
+  <rubrik namn="7. Befolkning" klass="heading1">
+    <text klass="rubriktext">Regler gäller POPULATION $, POPULATION $$, POPULATION $$$</text>
+    <underrubrik namn="7.1. Spelbord" klass="heading2">
+      <text klass="info">I spelet är olika aspekter av samhället representerade genom olika kategorier, var och en med sina egna behov och krav på energi och resurser. Här är en översikt över dessa kategorier och deras huvudsakliga funktioner:</text>
+      <text klass="info">HOUSING (Bostad): Beskriver energibehov för olika komforttemperaturer samt annan utrustning i hemmen som förbrukar elektricitet. Både gråa och gröna energislag kan användas för att tillgodose dessa behov.</text>
+      <text klass="info">TRANSPORT (Transport): Beskriver energibehov för alla typer av transporter såsom pendling, shopping och hobbies samt semesterresor. Dessa behov kan uppfyllas av vilket energislag som helst, förutom för flygtransporter som kräver särskild uppmärksamhet. Förändrad livsstil kan också minska transportbehovet.</text>
+      <text klass="info">FOOD (Mat): Beskriver behov av mat för olika ändamål såsom grundläggande överlevnad, restaurangbesök, snacks och extra portioner. Dessa behov kan tillfredsställas med både gråa och gröna mat-brickor.</text>
+      <text klass="info">GOODS (Varor): Beskriver behov av olika varor såsom kläder, vitvaror, engångsartiklar och prylar. Dessa behov kan tillfredsställas med både gråa och gröna varu-brickor.</text>
+      <text klass="info">HEALTH &amp; EDUCATION (Hälsa och Utbildning): Beskriver behov av primärvård, grundläggande och högre utbildning samt socialt stöd och välfärd.</text>
+      <text klass="info">Om behoven inom dessa kategorier inte tillgodoses minskar befolkningens välmående, vilket kan leda till negativa konsekvenser för samhällets utveckling och framtid. Det är därför viktigt för spelarna att balansera och hantera resurserna på ett effektivt sätt för att upprätthålla en hållbar och välmående samhällsutveckling.<img src="bilder/image_25.png"/></text>
+    </underrubrik>
+    <underrubrik namn="7.2. Workforce" klass="heading2">
+      <text klass="info">Arbetskraften är en viktig del av spelet och representerar de individer som är anställda och aktivt deltar i samhällsekonomin. Här är några viktiga punkter att komma ihåg om hur arbetskraften fungerar:<img src="bilder/image_26.png"/></text>
+      <text klass="info">Anställning vid spelets början: Varje arbetskraft har arbete när spelet börjar. Detta återspeglar att alla individer inledningsvis är en del av arbetskraften i samhället.</text>
+      <text klass="info">Anställningsavtal med arbetsgivare: Varje arbetskraft har ett avtal med en arbetsgivare. Detta indikerar att de är bundna till ett visst arbete och förväntas utföra uppgifter enligt detta avtal.</text>
+      <text klass="info">Sjukdomsrisk: Arbetskraften kan bli sjuk om det finns för många DISSENT-tokens i spelet. DISSENT-tokens representerar missnöje och otrygghet i samhället. Om en arbetskraft blir sjuk, visas detta genom symbolen med ett brustet hjärta. Sjukdom kan påverka arbetskraftens förmåga att utföra sina uppgifter och kan ha ekonomiska konsekvenser för samhället.</text>
+      <text klass="info">Inkomstgenerering: Alla som arbetar bidrar till att generera inkomst för befolkningen. Detta är avgörande för att upprätthålla samhällsekonomin och möjliggöra samhällsutveckling och tillväxt.<img src="bilder/image_27.png"/></text>
+    </underrubrik>
+    <underrubrik namn="7.3. Waste" klass="heading2">
+      <text klass="info">För var tionde FOOD- eller GOODS-bricka som genereras i spelet skapas sopor. Detta återspeglar den naturliga produktionen av avfall i samhället.</text>
+      <text klass="info">Det är möjligt att återvinna sopor för att minska avfallsmängden. När återvinning genomförs genereras en återvinningsbricka. Det är dock viktigt att notera att återvinning kan leda till missnöje hos vissa grupper i samhället, vilket symboliseras av en missnöjessymbol.</text>
+      <text klass="info">Soporna och återvinningen hanteras av den tekniska avdelningen i regionen. Det är deras ansvar att se till att avfallet tas om hand på ett lämpligt sätt för att minimera miljöpåverkan och främja hållbarhet.</text>
+      <text klass="info">Om mer än två sopor genereras vid en viss tidpunkt kan det leda till missnöje eller till och med ohälsa bland befolkningen. Detta visar på de negativa konsekvenserna av en bristfällig avfallshantering och behovet av att effektivt hantera sopor och återvinning.</text>
+    </underrubrik>
+    <underrubrik namn="7.4. Interaktionsfas" klass="heading2">
+      <text klass="info">Under INTERAKTIONSFAS i spelet har BEFOLKNINGEN möjlighet att utföra flera handlingar för att påverka spelets utveckling och sina egna möjligheter. Här är några av de viktigaste åtgärderna som BEFOLKNINGEN kan utföra:</text>
+      <text klass="info">Förhandla och Upprätta Kontrakt med andra: BEFOLKNINGEN kan delta i förhandlingar med andra spelare för att upprätta kontrakt. Genom dessa kontrakt kan de etablera affärsrelationer, samarbeten eller andra överenskommelser som gynnar båda parter och främjar sina egna intressen.</text>
+      <text klass="info">Bygga Anläggningar: BEFOLKNINGEN har möjlighet att bygga olika typer av anläggningar på spelplanen. Dessa anläggningar kan vara av olika slag, såsom bostäder, industrier, infrastruktur eller serviceinrättningar. Genom att bygga anläggningar kan BEFOLKNINGEN påverka samhällets utveckling och skapa nya möjligheter för tillväxt och förbättring.</text>
+      <text klass="info">Skaffa Projektkort: BEFOLKNINGEN kan skaffa projektkort under INTERAKTIONSFASEN. Dessa kort ger dem möjlighet att genomföra olika projekt eller initiativ som kan påverka spelets förlopp. Projektkort kan innehålla strategiska åtgärder, investeringar eller innovativa lösningar för att hantera olika utmaningar eller främja olika aspekter av samhällsutvecklingen.</text>
+    </underrubrik>
+    <underrubrik namn="7.5. Kontrakt" klass="heading2">
+      <underrubrik namn="7.5.1. Hur fungerar kontrakt?" klass="heading3">
+        <text klass="info">I spelet har spelarna möjlighet att ingå kontrakt och handelsavtal med varandra för att säkerställa tillgång till varor och tjänster som behövs för att uppnå sina mål. Det är viktigt att notera följande regler gällande kontrakt:</text>
+        <text klass="info">Kontraktsparter: Kontrakt kan upprättas mellan vilka spelare som helst utom forskare. Detta innebär att olika samarbetsmöjligheter kan utforskas mellan olika aktörer i spelet.</text>
+        <text klass="info">Innehåll och Varaktighet: Ett kontrakt representerar ett avtal om en vara eller tjänst och gäller tills någon part säger upp det. Det är en bindande överenskommelse som måste respekteras av båda parter.</text>
+        <text klass="info">Dokumentation och Sparande: Köpare och säljare får var sin kopia av kontraktet, vilka sparas på respektive bord för referens. Det är viktigt att ha en tydlig dokumentation av alla avtal för att undvika missförstånd och tvister.</text>
+        <text klass="info">Innehåll i Kontraktet: I kontraktet ska det tydligt specificeras vad och hur mycket (antal) som köpts och till vilken kostnad. Detta ger klarhet kring de överenskomna villkoren och underlättar uppföljning av affärstransaktionerna.</text>
+        <text klass="info">Budget och Resursjusteringar: Efter att ett kontrakt har ingåtts måste aktörernas budgetar och tillgängliga resurser anpassas enligt avtalet. Detta innebär att eventuella förändringar i tillgängliga resurser måste återspeglas genom att flytta markörer eller justera ekonomiska tillgångar.</text>
+        <text klass="info">Engångskostnader: Engångskostnader, som betalas direkt från kassan, ska inte skrivas upp i kontraktet. Dessa utgifter är enkla transaktioner som inte kräver en långsiktig överenskommelse.</text>
+      </underrubrik>
+      <underrubrik namn="7.5.2. Hur skapar man ett kontrakt?" klass="heading3">
+        <text klass="info">Överenskommelse av Villkor: Först och främst måste spelarna komma överens om vad som ska säljas eller köpas och i vilken kvantitet, samt till vilket pris. Detta kan göras genom förhandling och diskussion mellan de involverade parterna.</text>
+        <text klass="info">Upprättande av Kontrakt: När villkoren är klara, upprättas kontraktet i två exemplar. Kontraktet bör numreras för enkel identifiering och för att underlätta spårbarhet.</text>
+        <text klass="info">Specifikationer i Kontraktet: Kontraktet ska innehålla information om vilka som är säljare och köpare, vad som säljs eller köps, och hur mycket (antal) till vilket pris. Denna information bör vara tydligt angiven för att undvika missförstånd.</text>
+        <text klass="info">Kopior för Båda Parter: Både säljaren och köparen behöver få varsin kopia av det upprättade kontraktet. Detta säkerställer att båda parter har en dokumentation av avtalet för framtida referens.</text>
+        <text klass="info">Justering av Markörer: Efter att kontraktet har upprättats kan spelarna behöva justera sina ekonomiska markörer enligt de överenskomna villkoren. Detta kan inkludera att flytta markörer för att återspegla förändringar i budget eller tillgängliga resurser.</text>
+        <text klass="info">Uppsägningsmöjlighet: Det är viktigt att komma ihåg att ett kontrakt kan sägas upp av någon av parterna när som helst, dock inte under samma runda som det upprättades. Detta ger flexibilitet för spelarna att anpassa sig till förändrade omständigheter eller strategier<img src="bilder/image_28.png"/></text>
+      </underrubrik>
+    </underrubrik>
+    <underrubrik namn="7.6. Projektkort" klass="heading2">
+      <text klass="info">PROJEKTKORT finns tillgängliga både på varje spelarbord och hos FORSKARNA. Detta innebär att spelarna har tillgång till olika typer av projekt och initiativ som de kan genomföra för att påverka spelets förlopp.</text>
+      <text klass="info">PROJEKTKORT innehåller förslag på olika åtgärder eller projekt som kan genomföras i spelet. Dessa kan vara strategiska, ekonomiska, miljömässiga eller sociala initiativ som påverkar olika aspekter av spelet.</text>
+      <text klass="info">Varje PROJEKTKORT innehåller en beskrivning som förklarar syftet, effekterna och eventuella villkor för att använda kortet.</text>
+      <text klass="info">Vissa PROJEKTKORT beskriver tydliga villkor för vad som måste göras för att kunna använda kortet och vilka effekter det får i spelet. Andra PROJEKTKORT ger mer generella idéer och kräver att spelarna själva finner sätt att realisera dem.</text>
+      <text klass="info">I vårt spel är projektkorten uppdelade i fem olika kategorier som representerar olika inriktningar för samhällets omställning. Kategorierna visas tydligt längst upp till höger på projektkorten. Projekten inom samma kategori tenderar att sträva åt samma håll, vilket ger spelarna möjlighet att skapa strategier baserade på gemensamma mål.</text>
+      <text klass="info">QR-kod för Mer Information</text>
+      <text klass="info">På varje projektkort finns en QR-kod längst ner till höger som leder till webbplatser där spelarna kan läsa mer om tankarna bakom kortens innehåll. Detta ger en möjlighet till fördjupning och förståelse för de olika strategierna och deras bakgrund.</text>
+      <text klass="info">Omedelbara Effekter och Kapitalanvändning</text>
+      <text klass="info">Projektkorten erbjuder omedelbara effekter och spelarna kan använda fritt kapital för att betala för dessa. Detta ger spelarna möjlighet att direkt påverka spelets utveckling och ta snabba beslut för att främja sina strategier.</text>
+      <text klass="info">Forskning och Resurskrav</text>
+      <text klass="info">Vissa projektkort kräver forskning av olika slag, representerad av hexagonala forskningsbrickor. Symbolerna längst upp till vänster på kortet indikerar vilka typer av forskningsresurser som krävs för att spela kortet. Spelarna kan ta kontakt med forskarna för att få hjälp att få tillgång till dessa forskningsresurser och därigenom kunna dra nytta av kortets fördelar.</text>
+      <img src="bilder/image_29.png"/>
+    </underrubrik>
+    <underrubrik namn="7.7. Bygga anläggningar" klass="heading2">
+      <text klass="info">I spelet har BEFOLKNINGEN möjlighet att använda ANLÄGGNINGAR för att producera olika typer av resurser som de antingen kan förbruka själva eller sälja till andra spelare. Dessa resurser kan vara bränsle, värme, mat eller elektricitet, beroende på typen av anläggning och dess syfte. För att distribuera dessa resurser måste BEFOLKNINGEN ha ett avtal med antingen en energidistributör eller ett transportföretag.</text>
+      <text klass="info">För att skapa nya anläggningar för produktion måste BEFOLKNINGEN förhandla med BYGGFÖRETAGEN för att få prisuppgifter och bestämma kostnaden för att bygga nya anläggningar. Det är genom dessa förhandlingar som BEFOLKNINGEN kan planera och genomföra sina produktionsprojekt och utveckla sin ekonomi.</text>
+      <text klass="info">Det är viktigt att observera att anläggningar kräver UNDERHÅLL. Om BEFOLKNINGEN väljer att skaffa anläggningar måste de se till att dessa underhålls regelbundet för att fortsätta fungera effektivt och ge önskat resultat.<img src="bilder/image_30.png"/></text>
+      <text klass="info">Som ett exempel kan ett kort som visar en vindkraftsanläggning användas för att producera vindkraftsbaserad el. Genom att bygga och underhålla sådana anläggningar kan BEFOLKNINGEN bidra till att möta energibehoven i samhället och skapa en hållbar och effektiv energiförsörjning. Det är genom sådana handlingar och strategier som BEFOLKNINGEN kan påverka spelets utveckling och främja sin egen framgång och välfärd.</text>
+    </underrubrik>
+    <underrubrik namn="7.8. Underhåll av anläggningar" klass="heading2">
+      <text klass="info">Vid slutet av varje omgång är det dags för underhåll av alla anläggningar. Underhållsbehovet för varje anläggning representeras genom att skiftnycklar (se bild nedan) läggs på anläggningarna, normalt en per anläggning och omgång. För att reparera anläggningar kan spelarna välja att använda kort som "Skilled engineers" till höger om situationen. För att utföra underhåll måste alla spelare som äger anläggningar slå för MAINTENANCE genom att rulla två tärningar och sedan lägga till antalet skiftnycklar som redan är placerade på anläggningen till summan av tärningarna. Till exempel, om tärningarna visar 2 och 4, och anläggningen har tre skiftnycklar på sig, blir summan 2 + 4 + 3 = 9. Detta resulterar i att en extra skiftnyckel läggs till på anläggningen tills nästa omgång (se MAINTENANCE-kortet för ytterligare detaljer).<img src="bilder/image_31.png"/></text>
+      <text klass="info">För summor av 17 och högre anses anläggningen vara förstörd och kan inte längre användas. Detta innebär att spelaren måste ta itu med förlusten av anläggningen och eventuella konsekvenser som detta kan medföra för deras strategi och framgång i spelet. Se till att vara försiktig med underhållet av dina anläggningar för att undvika sådana katastrofala utfall.<img src="bilder/image_32.png"/><img src="bilder/image_33.png"/></text>
+    </underrubrik>
+    <underrubrik namn="7.9. Resolvefas" klass="heading2">
+      <text klass="info">I slutet av varje spelrunda stämmer vi av vad som hänt under rundan genom följande aktiviteter för befolkning</text>
+      <underrubrik namn="7.9.1. Aktieutdelning" klass="heading3">
+        <text klass="info">UTDELNINGEN som BEFOLKNINGEN får beror på den procentandel av företagets utdelning som motsvarar deras aktieinnehav.</text>
+        <text klass="info">Exempel: Om företaget Conglomo ger en AKTIEUTDELNING på totalt 10%, och HÖGINKOMSTTAGARNA har aktier i Conglomo värda $20, kommer HÖGINKOMSTTAGARNA att få 10% av $20, vilket motsvarar $2 i AKTIEUTDELNING.</text>
+        <text klass="info">AKTIEUTDELNINGEN hanteras separat från BOKSLUTET. Pengarna från utdelningen läggs i en separat hög på spelarnas bord och kan användas för olika ändamål eller investeringar under spelets gång.</text>
+      </underrubrik>
+      <underrubrik namn="7.9.2. Bokslut" klass="heading3">
+        <text klass="info">Summera Kontrakt som Ger Intäkter: BEFOLKNINGEN summerar alla kontrakt som har genererat intäkter under spelrundan. Detta kan inkludera inkomster från försäljning av varor eller tjänster, aktieutdelningar, eller andra ekonomiska transaktioner som har bidragit till BEFOLKNINGENS kassaflöde.</text>
+        <text klass="info">Summera Kontrakt som Ger Utgifter: BEFOLKNINGEN summerar även alla kontrakt som har resulterat i utgifter under spelrundan. Detta kan inkludera kostnader för inköp av varor eller tjänster, underhåll av anläggningar, eller andra utgifter som BEFOLKNINGEN har åtagit sig.</text>
+        <text klass="info">Kontrollera Markörerna för Inkomst och Utgift: BEFOLKNINGEN kontrollerar att markörerna för inkomst och utgift är i enlighet med resultaträkningen. Detta innebär att de jämför den totala intäkten () med den totala utgiften () för att säkerställa att balansen är korrekt.<img src="bilder/image_34.png"/><img src="bilder/image_35.png"/><img src="bilder/image_36.png"/><img src="bilder/image_37.png"/><img src="bilder/image_38.png"/></text>
+        <text klass="info">Betala Ut eller Kräv In Mellanskillnad: Om resultatet av resultaträkningen är positivt, betalar BEFOLKNINGEN ut mellanskillnaden till sina medlemmar eller använder den för andra ändamål. Om resultatet är negativt, kräver BEFOLKNINGEN in mellanskillnaden för att täcka eventuella förluster eller obetalda skulder.</text>
+      </underrubrik>
+      <underrubrik namn="7.9.3. Lyckoindex" klass="heading3">
+        <text klass="info">För att beräkna LYCKOINDEX ska BEFOLKNINGEN kontrollera sina brickor i följande områden: TRANSPORT, HOUSING, FOOD, GOODS och HEALTH AND EDUCATION. För varje område där det saknas en eller flera brickor dras ett fördefinierat värde bort från LYCKOINDEX. Typen av bricka spelar ingen roll så länge den är av rätt sort, alternativt om det finns en bricka som representerar en LIFESTYLE CHANGE.</text>
+        <text klass="info">Detta betyder att om det finns tomma rutor eller områden där BEFOLKNINGEN inte har tillräckligt med resurser för att täcka behoven, kommer LYCKOINDEX att minska. Detta speglar en minskad livskvalitet eller välbefinnande för befolkningen när viktiga områden inte är tillräckligt tillgodosedda.<img src="bilder/image_39.png"/><img src="bilder/image_40.png"/></text>
+        <text klass="info">När LYCKOINDEX sjunker får spelarna DISSENT-markörer, vilket kan leda till negativa effekter. Här är en översikt över hur DISSENT-markörerna påverkar spelet:</text>
+        <text klass="info">LYCKOINDEX upp till 14 (mörkrött): Vid LYCKOINDEX upp till 14, vilket indikeras av en mörkröd färg, får spelarna 2 DISSENT-markörer per spelrunda.</text>
+        <text klass="info">LYCKOINDEX på 15-16 (ljusrött): Vid LYCKOINDEX på 15-16, vilket indikeras av en ljusröd färg, får spelarna istället 1 DISSENT-markör per spelrunda.</text>
+        <text klass="info">Negativa Effekter av DISSENT-markörer: DISSENT-markörer kan medföra olika negativa konsekvenser för spelarna:</text>
+        <text klass="info">Två DISSENT-markörer: Kostar $1 extra per förändring. Till exempel, om spelarna väljer att ändra från 2 oljebaserade till 2 elbaserade anläggningar, kostar det $2 extra.</text>
+        <text klass="info">Fyra DISSENT-markörer: Kostar $2 extra per förändring.</text>
+        <text klass="info">Fem DISSENT-markörer: Kostar $2 extra, och en WORKFORCE blir sjuk.</text>
+        <text klass="info">Sex DISSENT-markörer: Medför ytterligare konsekvenser som angivna av spelledarna.</text>
+      </underrubrik>
+      <underrubrik namn="7.9.4. Koldioxidavtryck" klass="heading3">
+        <text klass="info">I samband med RESOLVE-fasen beräknas koldioxidavtrycket genom att spelarna samlar svarta stenar till sina bord och placeras på platsen där det står ”Historically emitted CO2”. För varje bricka med grå bakgrund som finns på spelplanen tilldelas varje bord 1 svart sten, vilket motsvarar 1000 ton koldioxidutsläpp.</text>
+        <text klass="info">För att beräkna koldioxidavtrycket börjar spelarna med att ta stenar från 1.5°-budgeten, sedan från 2°C-budgeten och till sist från 2.4°C-budgeten. Detta innebär att spelarna prioriterar att ta stenar från den mest ambitiösa klimatmålsättningen först och arbetar sig neråt.</text>
+        <text klass="info">För att hålla koll på koldioxidavtrycket markeras även antalet stenar på en avlång statuslinjal under omgången. Denna linjal visar hur många stenars avtryck varje bord har genererat under spelets gång. Till exempel, om matföretagen nedan har genererat nio stenar koldioxidavtryck, markeras detta på statuslinjalen för att hålla koll på deras klimatpåverkan.<img src="bilder/image_41.png"/></text>
+      </underrubrik>
+    </underrubrik>
+  </rubrik>
+  <rubrik namn="8. Företag" klass="heading1">
+    <text klass="rubriktext">Under INTERAKTIONSFASEN har företag möjlighet att utföra flera olika aktiviteter för att driva sin verksamhet framåt. Dessa inkluderar:</text>
+    <text klass="rubriktext">Bygga anläggningar: Företag kan investera i och bygga olika typer av anläggningar för att producera varor eller tjänster. Genom att bygga anläggningar kan företagen öka sin produktionskapacitet och diversifiera sin verksamhet.</text>
+    <text klass="rubriktext">Sälja och köpa varor genom att teckna kontrakt: Företag kan ingå avtal och kontrakt för att sälja sina produkter till andra aktörer eller köpa in nödvändiga varor och tjänster för sin verksamhet. Genom att teckna kontrakt kan företagen säkerställa en stabil försörjningskedja och optimera sin verksamhet.</text>
+    <text klass="rubriktext">Genomföra förändringar via projektkort: Företag kan genomföra förändringar och förbättringar i sin verksamhet genom att använda sig av projektkort. Dessa kort kan innehålla idéer och förslag på förbättringar som kan implementeras för att öka effektiviteten, minska kostnader eller förbättra produkternas kvalitet.</text>
+    <text klass="rubriktext">Förhandla med andra aktörer: Företag har möjlighet att delta i förhandlingar med andra aktörer för att uppnå gemensamma mål eller lösa konflikter. Genom förhandlingar kan företagen samarbeta med andra aktörer för att maximera sina fördelar och minimera riskerna för sin verksamhet.</text>
+    <underrubrik namn="8.1. Köpa och sälja varor" klass="heading2">
+      <text klass="info">I brädspelets handelsmekanism representerar MARKET platsen där spelarna interagerar för att köpa och sälja varor. Marknaden är indelad i två delar: en lokal och en internationell del, vilket tillåter spelarna att utföra transaktioner både inom spelets värld och med externa enheter.</text>
+      <text klass="info">När en spelare önskar genomföra en handel, skapar de ett KONTRAKT med marknaden som fungerar som en formell överenskommelse av villkor för handeln. Detta kontrakt specificerar detaljer såsom mängden och priset på varorna som ska köpas eller säljas. Varje kontrakt måste placeras nära marknadsområdet på spelbrädet för att indikera att en handel har etablerats.</text>
+      <text klass="info">Brickorna som ligger vid marknadens köpdel representerar varuflödet och prissättningen. Priserna är angivna på post-it-lappar för att ge en tydlig och lättuppfattad bild av den aktuella marknadssituationen. Priserna kan fluktuera beroende på spelarens handlingar och marknadens dynamik.</text>
+      <text klass="info">Spelarna uppmuntras att strategiskt köpa och sälja varor för att öka sin ekonomiska styrka och påverka spelets ekosystem. Den framgångsrika hanteringen av marknadstransaktioner är avgörande för att bygga upp ett framgångsrikt företagsimperium inom spelet. Spelarens förmåga att förhandla och sluta fördelaktiga kontrakt kan vara nyckeln till att vinna spelet.<img src="bilder/image_42.png"/></text>
+    </underrubrik>
+    <underrubrik namn="8.2. Bygga anläggningar" klass="heading2">
+      <text klass="info">När spelare vill etablera nya produktionsanläggningar, måste de först konsultera byggföretagen för att få en offert och bestämma byggkostnaden. Varje anläggningstyp, som fabriker, kräver en specifik kombination av resurser för att konstruera och driftsätta. Resurskraven är detaljerade i spelanvisningarna, där arbetskraft, uppvärmning, energiförsörjning, bearbetning och råmaterial är nödvändiga komponenter som måste samlas in.</text>
+      <text klass="info">För att en anläggning ska vara operativ och börja producera varor måste spelarna säkerställa att de har tillgängliga resurser motsvarande vad som är angivet för anläggningstypen. Till exempel, för en fabrik krävs det en kombination av tio enheter av råmaterial, energi och arbetskraft för att börja tillverka produkter. Anläggningens output, såsom antalet exportvaror den producerar, är också specificerat och avgör hur effektiv anläggningen är i spelet.</text>
+      <text klass="info">Strategisk planering och resursförvaltning är avgörande för att framgångsrikt bygga och driva anläggningar. Detta tillför en djupare strategisk dimension till spelet där spelare måste väga kostnaden för att bygga mot den potentiella avkastningen från deras investeringar.</text>
+    </underrubrik>
+    <underrubrik namn="8.3. Interaktionsfas" klass="heading2">
+      <text klass="info">Under interaktionsfasen har företagen möjlighet att bygga anläggningar för att producera varor som kan säljas. Dessa anläggningar kan inkludera allt från fabriker till raffinaderier. Varje anläggning har unika krav och kostnader för uppbyggnad och drift, vilka detaljerat listas av de associerade byggföretagen.</text>
+      <text klass="info">För energiföretag utgör anläggningarna en central del i deras verksamhet, eftersom de möjliggör produktion av bränslen, värme och elektricitet som sedan kan distribueras till kunder. Exempelvis kan ett raffinaderi användas för att förädla olika typer av drivmedel, från fossila alternativ till biobaserade lösningar, där spelare måste välja den inriktning som bäst passar deras strategi och spelets hållbarhetsmål.<img src="bilder/image_43.png"/></text>
+      <text klass="info">Byggandet av dessa anläggningar är en strategisk process där spelarna måste balansera kostnaden för konstruktionen med den förväntade avkastningen. Det är en investering som kräver noga övervägande och planering. Spelarna uppmanas att noggrant överväga sina alternativ och konsultera byggföretagen för att få den mest kostnadseffektiva och miljömässigt hållbara lösningen för sina energibehov.</text>
+    </underrubrik>
+    <underrubrik namn="8.4. Waste" klass="heading2">
+      <text klass="info">I "Att Vända Strömmen" hanterar företagen avfall som en integrerad del av deras verksamhet. Varje gång tre enheter av råvaror har förbrukats, genererar detta en enhet avfall. Detta spelelement åskådliggör vikten av hållbarhet och påminner spelarna om de miljöpåverkningar som deras produktion medför.<img src="bilder/image_44.png"/></text>
+      <text klass="info">För att hantera avfallet, kan spelarna välja att investera i återvinningsprocesser. Genom att betala 3 dollar kan en avfallsenhet omvandlas till återvunnet material, vilket kan användas som en resurs i spelet. Denna mekanism uppmuntrar spelarna att tänka på långsiktiga strategier för avfallshantering och resursoptimering.</text>
+      <text klass="info">När mer avfall eller återvunnet material genereras, är det viktigt att informera den tekniska avdelningen (Technical Department) i spelet. Denna avdelning har hand om logistiken kring transport och hantering av avfall och återvunna material. Genom att samarbeta med den tekniska avdelningen kan spelarna säkerställa att deras avfall hanteras korrekt, vilket minskar miljöpåverkan och bidrar till en mer hållbar spelvärld.</text>
+      <text klass="info">Denna avfalls- och återvinningsmekanism är inte bara en kritisk aspekt av spelstrategin utan tjänar även som en pedagogisk punkt om betydelsen av ansvarsfull resurshantering i både spel och verklighet.</text>
+    </underrubrik>
+    <underrubrik namn="8.5. Projektkort" klass="heading2">
+      <text klass="info">PROJEKTKORT finns tillgängliga både på varje spelarbord och hos FORSKARNA. Detta innebär att spelarna har tillgång till olika typer av projekt och initiativ som de kan genomföra för att påverka spelets förlopp.</text>
+      <text klass="info">PROJEKTKORT innehåller förslag på olika åtgärder eller projekt som kan genomföras i spelet. Dessa kan vara strategiska, ekonomiska, miljömässiga eller sociala initiativ som påverkar olika aspekter av spelet.</text>
+      <text klass="info">Varje PROJEKTKORT innehåller en beskrivning som förklarar syftet, effekterna och eventuella villkor för att använda kortet.</text>
+      <text klass="info">Vissa PROJEKTKORT beskriver tydliga villkor för vad som måste göras för att kunna använda kortet och vilka effekter det får i spelet. Andra PROJEKTKORT ger mer generella idéer och kräver att spelarna själva finner sätt att realisera dem.</text>
+      <text klass="info">I vårt spel är projektkorten uppdelade i fem olika kategorier som representerar olika inriktningar för samhällets omställning. Kategorierna visas tydligt längst upp till höger på projektkorten. Projekten inom samma kategori tenderar att sträva åt samma håll, vilket ger spelarna möjlighet att skapa strategier baserade på gemensamma mål.</text>
+      <img src="bilder/image_45.png"/>
+    </underrubrik>
+    <underrubrik namn="8.6. Underhåll av anläggningar" klass="heading2">
+      <text klass="info">Vid slutet av varje omgång är det dags för underhåll av alla anläggningar. Underhållsbehovet för varje anläggning representeras genom att skiftnycklar (se bild nedan) läggs på anläggningarna, normalt en per anläggning och omgång. För att reparera anläggningar kan spelarna välja att använda kort som "Skilled engineers" till höger om situationen. För att utföra underhåll måste alla spelare som äger anläggningar slå för MAINTENANCE genom att rulla två tärningar och sedan lägga till antalet skiftnycklar som redan är placerade på anläggningen till summan av tärningarna. Till exempel, om tärningarna visar 2 och 4, och anläggningen har tre skiftnycklar på sig, blir summan 2 + 4 + 3 = 9. Detta resulterar i att en extra skiftnyckel läggs till på anläggningen tills nästa omgång (se MAINTENANCE-kortet för ytterligare detaljer).<img src="bilder/image_46.png"/></text>
+      <text klass="info">För summor av 17 och högre anses anläggningen vara förstörd och kan inte längre användas. Detta innebär att spelaren måste ta itu med förlusten av anläggningen och eventuella konsekvenser som detta kan medföra för deras strategi och framgång i spelet. Se till att vara försiktig med underhållet av dina anläggningar för att undvika sådana katastrofala utfall.<img src="bilder/image_47.png"/><img src="bilder/image_48.png"/></text>
+    </underrubrik>
+    <underrubrik namn="8.7. Resolve" klass="heading2">
+      <text klass="info">Vid varje spelrundas slut inträffar RESOLVE-fasen, en kritisk punkt för alla företag i spelet "Att Vända Strömmen". Under denna fas görs en översyn och avstämning av företagets aktiviteter. Följande aktiviteter är centrala:</text>
+      <text klass="info">Bokslut för företaget</text>
+      <text klass="info">Aktieutdelning</text>
+      <text klass="info">Koldioxidavtryck</text>
+      <text klass="info">Underhålla anläggningar</text>
+      <text klass="info">Denna fas är avgörande eftersom den inte bara visar spelarnas framsteg utan också tvingar dem att överväga konsekvenserna av sina handlingar, både på kort och lång sikt. Spelare måste balansera sina ekonomiska mål med miljöansvar, vilket skapar en komplex och engagerande spelupplevelse.</text>
+      <underrubrik namn="8.7.1. Bokslut för företag" klass="heading3">
+        <text klass="info">I slutet av varje spelomgång i "Att Vända Strömmen", är det dags för företagen att göra upp räkenskaperna. Bokslutet är en noggrann genomgång där företagens ekonomiska status utvärderas för att fastställa deras framsteg och hälsa. Spelarna måste:</text>
+        <text klass="info">Jämföra tillgångar och utgifter: Företagets totala tillgångar och utgifter jämförs för att avgöra den finansiella balansen. Detta moment är avgörande för att förstå företagets lönsamhet och ekonomiska stabilitet.</text>
+        <text klass="info">Summera kontrakt för inkomster: Spelarna granskar sina kontrakt och räknar samman alla inkomstgenererande avtal. Detta kan innefatta försäljning av varor, tjänster, och andra inkomstkällor.</text>
+        <text klass="info">Summera kontrakt för utgifter: På samma sätt summeras alla utgiftskontrakt. Det kan röra sig om kostnader för råmaterial, löner, underhåll och andra operativa utgifter.</text>
+        <text klass="info">Flytta markörer för inkomst och utgift: Efter att inkomster och utgifter har summerats, justerar spelarna sina markörer på statuslinjalen för att återspegla deras ekonomiska resultat. Detta ger en visuell representation av hur företaget har presterat under omgången.</text>
+        <text klass="info">Övervaka produktionsvolymen: För företag som producerar varor är det även viktigt att hålla koll på produktionsvolymen. En markör placeras längs med statuslinjalen för att visa hur mycket som har producerats och därmed indikera effektiviteten i företagets produktion.</text>
+      </underrubrik>
+      <underrubrik namn="8.7.2.Koldioxidavtryck" klass="heading3">
+        <text klass="info">I samband med RESOLVE-fasen beräknas koldioxidavtrycket genom att spelarna samlar svarta stenar till sina bord och placeras på platsen där det står ”Historically emitted CO2”. För varje bricka med grå bakgrund som finns på spelplanen tilldelas varje bord 1 svart sten, vilket motsvarar 1000 ton koldioxidutsläpp.</text>
+        <text klass="info">För att beräkna koldioxidavtrycket börjar spelarna med att ta stenar från 1.5°-budgeten, sedan från 2°C-budgeten och till sist från 2.4°C-budgeten. Detta innebär att spelarna prioriterar att ta stenar från den mest ambitiösa klimatmålsättningen först och arbetar sig neråt.</text>
+        <text klass="info">För att hålla koll på koldioxidavtrycket markeras även antalet stenar på en avlång statuslinjal under omgången. Denna linjal visar hur många stenars avtryck varje bord har genererat under spelets gång. Till exempel, om matföretagen nedan har genererat nio stenar koldioxidavtryck, markeras detta på statuslinjalen för att hålla koll på deras klimatpåverkan.<img src="bilder/image_49.png"/></text>
+      </underrubrik>
+      <underrubrik namn="8.7.3. Aktieutdelning" klass="heading3">
+        <text klass="info">I "Att Vända Strömmen" är aktieutdelningen ett viktigt beslut för företagen att göra i slutet av varje spelomgång. Storleken på utdelningen är en procentuell andel av företagets aktiekapital och påverkar direkt aktieägarnas tillfredsställelse.<img src="bilder/image_50.png"/></text>
+        <text klass="info">Beslut om utdelning: Företaget bestämmer vilken procentandel av aktiekapitalet som ska delas ut till aktieägarna. Detta val kan bero på företagets vinst, strategiska överväganden eller för att uppfylla aktieägarnas förväntningar.</text>
+        <text klass="info">Utdelning per aktie: Utdelningen är lika för alla aktieägare och ger dem en likvärdig andel baserat på hur mycket aktiekapital de äger. Aktieägarna kan vara känsliga för utdelningens storlek och detta kan påverka deras fortsatta investering i företaget.</text>
+        <text klass="info">Minimigräns för utdelning: Det finns en minimigräns för utdelning, till exempel $4 per aktiepost, som kan vara nödvändig för att upprätthålla aktieägarnas förtroende. Om aktieägare får mindre än denna minimigräns kan de omvärdera sin investering i företaget.</text>
+        <text klass="info">Konsekvenser av otillräcklig utdelning: Om företaget inte kan ge en utdelning som är tillfredsställande, och aktieägarna kräver tillbaka sitt kapital, kan företaget stå inför en skuld till aktieägarna. Denna skuld innebär en skyldighet att betala tillbaka det ursprungliga investerade beloppet plus ränta.</text>
+      </underrubrik>
+    </underrubrik>
+  </rubrik>
+  <rubrik namn="9. Conglomo" klass="heading1">
+    <text klass="rubriktext">Under interaktionsfasen i brädspelet "Att Vända Strömmen", representerar "Conglomo" ett företag som handlar med elektricitet. Deras roll i spelet innefattar att köpa in och distribuera el till slutanvändare. Här är de viktiga stegen:</text>
+    <text klass="rubriktext">Inköp av Högspänningselektricitet: Conglomo ansvarar för att köpa in högspänningselektricitet, antingen från den stora marknaden (utan bård) eller genom lokala leverantörer (med bård). Högspänningselektriciteten är en nödvändig resurs som krävs för att möta kundens efterfrågan och för att driva deras verksamhet effektivt.</text>
+    <text klass="rubriktext">Distribution av Lågspänningselektricitet: Efter inköpet omvandlar Conglomo högspänningselektriciteten till lågspänning och distribuerar den sedan till slutanvändarna. Distributionen sker genom ett nätverk representerat på spelbrädet, där mängden distribuerad el motsvarar den inköpta högspänningselektriciteten.</text>
+    <text klass="rubriktext">Power Grid: På spelbrädet symboliseras detta genom ett "Power Grid", där varje enhet högspänningselektricitet omvandlas till lågspänningselektricitet för distribution. Det är viktigt för Conglomo att hantera sin energitillgång effektivt för att maximera vinsten och uppfylla sina kunders behov.</text>
+    <text klass="rubriktext">I detta spelsteg är det viktigt för spelarna att balansera kostnaderna för inköp av högspänningselektricitet med inkomsterna från distribution av lågspänningselektricitet. Korrekt hantering av detta steg är avgörande för Conglomos framgång och kan starkt påverka deras position i spelet.</text>
+    <underrubrik namn="9.1. Underhåll av anläggningar" klass="heading2">
+      <text klass="info">Vid slutet av varje omgång är det dags för underhåll av alla anläggningar. Underhållsbehovet för varje anläggning representeras genom att skiftnycklar (se bild nedan) läggs på anläggningarna, normalt en per anläggning och omgång. För att reparera anläggningar kan spelarna välja att använda kort som "Skilled engineers" till höger om situationen. För att utföra underhåll måste alla spelare som äger anläggningar slå för MAINTENANCE genom att rulla två tärningar och sedan lägga till antalet skiftnycklar som redan är placerade på anläggningen till summan av tärningarna. Till exempel, om tärningarna visar 2 och 4, och anläggningen har tre skiftnycklar på sig, blir summan 2 + 4 + 3 = 9. Detta resulterar i att en extra skiftnyckel läggs till på anläggningen tills nästa omgång (se MAINTENANCE-kortet för ytterligare detaljer). För summor av 17 och högre anses anläggningen vara förstörd och kan inte längre användas. Detta innebär att spelaren måste ta itu med förlusten av anläggningen och eventuella konsekvenser som detta kan medföra för deras strategi och framgång i spelet. Se till att vara försiktig med underhållet av dina anläggningar för att undvika sådana katastrofala utfall.<img src="bilder/image_51.png"/><img src="bilder/image_52.png"/><img src="bilder/image_53.png"/></text>
+    </underrubrik>
+    <underrubrik namn="9.2. Resolve" klass="heading2">
+      <text klass="info">Vid varje spelrundas slut inträffar RESOLVE-fasen, en kritisk punkt för alla företag i spelet "Att Vända Strömmen". Under denna fas görs en översyn och avstämning av företagets aktiviteter. Följande aktiviteter är centrala:</text>
+      <text klass="info">Bokslut för företaget</text>
+      <text klass="info">Aktieutdelning</text>
+      <text klass="info">Koldioxidavtryck</text>
+      <text klass="info">Underhålla anläggningar</text>
+      <text klass="info">Denna fas är avgörande eftersom den inte bara visar spelarnas framsteg utan också tvingar dem att överväga konsekvenserna av sina handlingar, både på kort och lång sikt. Spelare måste balansera sina ekonomiska mål med miljöansvar, vilket skapar en komplex och engagerande spelupplevelse.</text>
+      <underrubrik namn="9.2.1. Bokslut för företag" klass="heading3">
+        <text klass="info">I slutet av varje spelomgång i "Att Vända Strömmen", är det dags för företagen att göra upp räkenskaperna. Bokslutet är en noggrann genomgång där företagens ekonomiska status utvärderas för att fastställa deras framsteg och hälsa. Spelarna måste:</text>
+        <text klass="info">Jämföra tillgångar och utgifter: Företagets totala tillgångar och utgifter jämförs för att avgöra den finansiella balansen. Detta moment är avgörande för att förstå företagets lönsamhet och ekonomiska stabilitet.</text>
+        <text klass="info">Summera kontrakt för inkomster: Spelarna granskar sina kontrakt och räknar samman alla inkomstgenererande avtal. Detta kan innefatta försäljning av varor, tjänster, och andra inkomstkällor.</text>
+        <text klass="info">Summera kontrakt för utgifter: På samma sätt summeras alla utgiftskontrakt. Det kan röra sig om kostnader för råmaterial, löner, underhåll och andra operativa utgifter.</text>
+        <text klass="info">Flytta markörer för inkomst och utgift: Efter att inkomster och utgifter har summerats, justerar spelarna sina markörer på statuslinjalen för att återspegla deras ekonomiska resultat. Detta ger en visuell representation av hur företaget har presterat under omgången.</text>
+        <text klass="info">Övervaka produktionsvolymen: För företag som producerar varor är det även viktigt att hålla koll på produktionsvolymen. En markör placeras längs med statuslinjalen för att visa hur mycket som har producerats och därmed indikera effektiviteten i företagets produktion.</text>
+      </underrubrik>
+      <underrubrik namn="9.2.2. Koldioxidavtryck" klass="heading3">
+        <text klass="info">I samband med RESOLVE-fasen beräknas koldioxidavtrycket genom att spelarna samlar svarta stenar till sina bord och placeras på platsen där det står ”Historically emitted CO2”. För varje bricka med grå bakgrund som finns på spelplanen tilldelas varje bord 1 svart sten, vilket motsvarar 1000 ton koldioxidutsläpp.</text>
+        <text klass="info">För att beräkna koldioxidavtrycket börjar spelarna med att ta stenar från 1.5°-budgeten, sedan från 2°C-budgeten och till sist från 2.4°C-budgeten. Detta innebär att spelarna prioriterar att ta stenar från den mest ambitiösa klimatmålsättningen först och arbetar sig neråt.</text>
+        <text klass="info">För att hålla koll på koldioxidavtrycket markeras även antalet stenar på en avlång statuslinjal under omgången. Denna linjal visar hur många stenars avtryck varje bord har genererat under spelets gång. Till exempel, om matföretagen nedan har genererat nio stenar koldioxidavtryck, markeras detta på statuslinjalen för att hålla koll på deras klimatpåverkan.<img src="bilder/image_54.png"/></text>
+      </underrubrik>
+      <underrubrik namn="9.2.3. Aktieutdelning" klass="heading3">
+        <text klass="info">I "Att Vända Strömmen" är aktieutdelningen ett viktigt beslut för företagen att göra i slutet av varje spelomgång. Storleken på utdelningen är en procentuell andel av företagets aktiekapital och påverkar direkt aktieägarnas tillfredsställelse.<img src="bilder/image_55.png"/></text>
+        <text klass="info">Beslut om utdelning: Företaget bestämmer vilken procentandel av aktiekapitalet som ska delas ut till aktieägarna. Detta val kan bero på företagets vinst, strategiska överväganden eller för att uppfylla aktieägarnas förväntningar.</text>
+        <text klass="info">Utdelning per aktie: Utdelningen är lika för alla aktieägare och ger dem en likvärdig andel baserat på hur mycket aktiekapital de äger. Aktieägarna kan vara känsliga för utdelningens storlek och detta kan påverka deras fortsatta investering i företaget.</text>
+        <text klass="info">Minimigräns för utdelning: Det finns en minimigräns för utdelning, till exempel $4 per aktiepost, som kan vara nödvändig för att upprätthålla aktieägarnas förtroende. Om aktieägare får mindre än denna minimigräns kan de omvärdera sin investering i företaget.</text>
+        <text klass="info">Konsekvenser av otillräcklig utdelning: Om företaget inte kan ge en utdelning som är tillfredsställande, och aktieägarna kräver tillbaka sitt kapital, kan företaget stå inför en skuld till aktieägarna. Denna skuld innebär en skyldighet att betala tillbaka det ursprungliga investerade beloppet plus ränta.</text>
+      </underrubrik>
+    </underrubrik>
+  </rubrik>
+  <rubrik namn="10. Elementa" klass="heading1">
+    <underrubrik namn="10.1. Interaktionsfas" klass="heading2">
+      <text klass="info">Under interaktionsfasen i "Att Vända Strömmen" är Elementa en nyckelspelare som ansvarar för att leverera fjärrvärme till spelkartan genom sina "District Heating"-anläggningar. Deras roll innebär att:</text>
+      <text klass="info">Fjärrvärmeleverans: Elementa konverterar olika typer av bränslen till fjärrvärme som sedan distribueras till kunderna. Denna process reflekterar behovet av att hantera energiresurser och tillhandahålla grundläggande tjänster i spelets ekosystem.</text>
+      <text klass="info">Användning av Bränslen: Spelet möjliggör användning av en variation av bränslen för att generera värme. Varje bränsletyp har en token som representerar en enhet av bränsle som krävs för att genomföra en fjärrvärmetransport.</text>
+      <text klass="info">Transport av Fjärrvärme: För varje bränsleenhet som förbrukas krävs en transport för att leverera den genererade värmen. Detta skapar en direkt koppling mellan resursanvändning och serviceleverans, och spelarna måste balansera sina resurser och transportkapacitet för optimal drift.</text>
+      <text klass="info">Exempel på Leverans: I exemplet som visas, har Elementa levererat 10 enheter fjärrvärme som baseras på en kombination av nio enheter biobränsle och en enhet fossilt bränsle, tillsammans med tio transporter. Detta exemplifierar hur spelarna måste planera och kombinera sina resurser för att möta spelbrädet krav.<img src="bilder/image_56.png"/></text>
+      <text klass="info">Spelet uppmanar spelare att tänka strategiskt om sina energikällor och effektiviteten i deras distribution för att maximera sina poäng och främja hållbar utveckling inom spelets värld.</text>
+    </underrubrik>
+    <underrubrik namn="10.2. Waste" klass="heading2">
+      <text klass="info">I "Att Vända Strömmen" hanterar företagen avfall som en integrerad del av deras verksamhet. Varje gång tre enheter av råvaror har förbrukats, genererar detta en enhet avfall. Detta spelelement åskådliggör vikten av hållbarhet och påminner spelarna om de miljöpåverkningar som deras produktion medför.</text>
+      <text klass="info">För att hantera avfallet, kan spelarna välja att investera i återvinningsprocesser. Genom att betala 3 dollar kan en avfallsenhet omvandlas till återvunnet material, vilket kan användas som en resurs i spelet. Denna mekanism uppmuntrar spelarna att tänka på långsiktiga strategier för avfallshantering och resursoptimering.</text>
+      <text klass="info">När mer avfall eller återvunnet material genereras, är det viktigt att informera den tekniska avdelningen (Technical Department) i spelet. Denna avdelning har hand om logistiken kring transport och hantering av avfall och återvunna material. Genom att samarbeta med den tekniska avdelningen kan spelarna säkerställa att deras avfall hanteras korrekt, vilket minskar miljöpåverkan och bidrar till en mer hållbar spelvärld.</text>
+      <text klass="info">Denna avfalls- och återvinningsmekanism är inte bara en kritisk aspekt av spelstrategin utan tjänar även som en pedagogisk punkt om betydelsen av ansvarsfull resurshantering i både spel och verklighet.</text>
+    </underrubrik>
+    <underrubrik namn="10.3. Resolve" klass="heading2">
+      <text klass="info">Vid varje spelrundas slut inträffar RESOLVE-fasen, en kritisk punkt för alla företag i spelet "Att Vända Strömmen". Under denna fas görs en översyn och avstämning av företagets aktiviteter. Följande aktiviteter är centrala:</text>
+      <text klass="info">Bokslut för företaget</text>
+      <text klass="info">Aktieutdelning</text>
+      <text klass="info">Koldioxidavtryck</text>
+      <text klass="info">Underhålla anläggningar</text>
+      <text klass="info">Denna fas är avgörande eftersom den inte bara visar spelarnas framsteg utan också tvingar dem att överväga konsekvenserna av sina handlingar, både på kort och lång sikt. Spelare måste balansera sina ekonomiska mål med miljöansvar, vilket skapar en komplex och engagerande spelupplevelse.</text>
+      <underrubrik namn="10.3.1. Underhålla anläggningar" klass="heading3">
+        <text klass="info">Vid slutet av varje omgång är det dags för underhåll av alla anläggningar. Underhållsbehovet för varje anläggning representeras genom att skiftnycklar (se bild nedan) läggs på anläggningarna, normalt en per anläggning och omgång. För att reparera anläggningar kan spelarna välja att använda kort som "Skilled engineers" till höger om situationen. För att utföra underhåll måste alla spelare som äger anläggningar slå för MAINTENANCE genom att rulla två tärningar och sedan lägga till antalet skiftnycklar som redan är placerade på anläggningen till summan av tärningarna. Till exempel, om tärningarna visar 2 och 4, och anläggningen har tre skiftnycklar på sig, blir summan 2 + 4 + 3 = 9. Detta resulterar i att en extra skiftnyckel läggs till på anläggningen tills nästa omgång (se MAINTENANCE-kortet för ytterligare detaljer). För summor av 17 och högre anses anläggningen vara förstörd och kan inte längre användas. Detta innebär att spelaren måste ta itu med förlusten av anläggningen och eventuella konsekvenser som detta kan medföra för deras strategi och framgång i spelet. Se till att vara försiktig med underhållet av dina anläggningar för att undvika sådana katastrofala utfall.<img src="bilder/image_57.png"/><img src="bilder/image_58.png"/><img src="bilder/image_59.png"/></text>
+      </underrubrik>
+      <underrubrik namn="10.3.2. Bokslut för företag" klass="heading3">
+        <text klass="info">I slutet av varje spelomgång i "Att Vända Strömmen", är det dags för företagen att göra upp räkenskaperna. Bokslutet är en noggrann genomgång där företagens ekonomiska status utvärderas för att fastställa deras framsteg och hälsa. Spelarna måste:</text>
+        <text klass="info">Jämföra tillgångar och utgifter: Företagets totala tillgångar och utgifter jämförs för att avgöra den finansiella balansen. Detta moment är avgörande för att förstå företagets lönsamhet och ekonomiska stabilitet.</text>
+        <text klass="info">Summera kontrakt för inkomster: Spelarna granskar sina kontrakt och räknar samman alla inkomstgenererande avtal. Detta kan innefatta försäljning av varor, tjänster, och andra inkomstkällor.</text>
+        <text klass="info">Summera kontrakt för utgifter: På samma sätt summeras alla utgiftskontrakt. Det kan röra sig om kostnader för råmaterial, löner, underhåll och andra operativa utgifter.</text>
+        <text klass="info">Flytta markörer för inkomst och utgift: Efter att inkomster och utgifter har summerats, justerar spelarna sina markörer på statuslinjalen för att återspegla deras ekonomiska resultat. Detta ger en visuell representation av hur företaget har presterat under omgången.</text>
+        <text klass="info">Övervaka produktionsvolymen: För företag som producerar varor är det även viktigt att hålla koll på produktionsvolymen. En markör placeras längs med statuslinjalen för att visa hur mycket som har producerats och därmed indikera effektiviteten i företagets produktion.</text>
+      </underrubrik>
+      <underrubrik namn="10.3.3. Koldioxidavtryck" klass="heading3">
+        <text klass="info">I samband med RESOLVE-fasen beräknas koldioxidavtrycket genom att spelarna samlar svarta stenar till sina bord och placeras på platsen där det står ”Historically emitted CO2”. För varje bricka med grå bakgrund som finns på spelplanen tilldelas varje bord 1 svart sten, vilket motsvarar 1000 ton koldioxidutsläpp.</text>
+        <text klass="info">För att beräkna koldioxidavtrycket börjar spelarna med att ta stenar från 1.5°-budgeten, sedan från 2°C-budgeten och till sist från 2.4°C-budgeten. Detta innebär att spelarna prioriterar att ta stenar från den mest ambitiösa klimatmålsättningen först och arbetar sig neråt.</text>
+        <text klass="info">För att hålla koll på koldioxidavtrycket markeras även antalet stenar på en avlång statuslinjal under omgången. Denna linjal visar hur många stenars avtryck varje bord har genererat under spelets gång. Till exempel, om matföretagen nedan har genererat nio stenar koldioxidavtryck, markeras detta på statuslinjalen för att hålla koll på deras klimatpåverkan.<img src="bilder/image_60.png"/></text>
+      </underrubrik>
+      <underrubrik namn="10.3.4. Aktieutdelning" klass="heading3">
+        <text klass="info">I "Att Vända Strömmen" är aktieutdelningen ett viktigt beslut för företagen att göra i slutet av varje spelomgång. Storleken på utdelningen är en procentuell andel av företagets aktiekapital och påverkar direkt aktieägarnas tillfredsställelse.<img src="bilder/image_61.png"/></text>
+        <text klass="info">Beslut om utdelning: Företaget bestämmer vilken procentandel av aktiekapitalet som ska delas ut till aktieägarna. Detta val kan bero på företagets vinst, strategiska överväganden eller för att uppfylla aktieägarnas förväntningar.</text>
+        <text klass="info">Utdelning per aktie: Utdelningen är lika för alla aktieägare och ger dem en likvärdig andel baserat på hur mycket aktiekapital de äger. Aktieägarna kan vara känsliga för utdelningens storlek och detta kan påverka deras fortsatta investering i företaget.</text>
+        <text klass="info">Minimigräns för utdelning: Det finns en minimigräns för utdelning, till exempel $4 per aktiepost, som kan vara nödvändig för att upprätthålla aktieägarnas förtroende. Om aktieägare får mindre än denna minimigräns kan de omvärdera sin investering i företaget.</text>
+        <text klass="info">Konsekvenser av otillräcklig utdelning: Om företaget inte kan ge en utdelning som är tillfredsställande, och aktieägarna kräver tillbaka sitt kapital, kan företaget stå inför en skuld till aktieägarna. Denna skuld innebär en skyldighet att betala tillbaka det ursprungliga investerade beloppet plus ränta.</text>
+      </underrubrik>
+    </underrubrik>
+  </rubrik>
+  <rubrik namn="11. Boxhome" klass="heading1">
+    <text klass="rubriktext">I "Att Vända Strömmen" står Boxhome för leverans av drivmedel via sina raffineringsanläggningar under spelets interaktionsfas. Deras arbete innebär att:</text>
+    <text klass="rubriktext">Drivmedelsproduktion: Genom raffineringsprocessen omvandlar Boxhome råbränsle till drivmedel som sedan kan användas inom spelets värld för olika transport- och energibehov.</text>
+    <text klass="rubriktext">Råbränsle och Transport: För varje enhet råbränsle som omvandlas till drivmedel krävs det en transport. Denna regel säkerställer att spelarna måste balansera råvaruinköp med tillgänglig transportkapacitet för att effektivisera sin drivmedelsproduktion.</text>
+    <text klass="rubriktext">Exempel på Leverans: I det visade exemplet levererar Boxhome tio enheter av fossilt drivmedel, vilket innebär att de har använt tio enheter av råolja och samordnat detta med tio transporter för att kunna leverera den färdiga produkten.<img src="bilder/image_62.png"/></text>
+    <text klass="rubriktext">Varje transportenhet som används representerar logistiken och kostnaden för att få drivmedlet till marknaden. Spelarna hos Boxhome måste därför noggrant planera och genomföra sina raffineringsoperationer för att säkerställa att de uppfyller efterfrågan utan att påverka deras operativa kostnader negativt. Genom att lyckas med detta kan Boxhome förbättra sin lönsamhet och sin position i spelet.</text>
+    <underrubrik namn="11.1. Resolve" klass="heading2">
+      <text klass="info">Vid varje spelrundas slut inträffar RESOLVE-fasen, en kritisk punkt för alla företag i spelet "Att Vända Strömmen". Under denna fas görs en översyn och avstämning av företagets aktiviteter. Följande aktiviteter är centrala:</text>
+      <text klass="info">Bokslut för företaget</text>
+      <text klass="info">Aktieutdelning</text>
+      <text klass="info">Koldioxidavtryck</text>
+      <text klass="info">Underhålla anläggningar</text>
+      <text klass="info">Denna fas är avgörande eftersom den inte bara visar spelarnas framsteg utan också tvingar dem att överväga konsekvenserna av sina handlingar, både på kort och lång sikt. Spelare måste balansera sina ekonomiska mål med miljöansvar, vilket skapar en komplex och engagerande spelupplevelse.</text>
+      <underrubrik namn="11.1.1. Underhålla anläggningar" klass="heading3">
+        <text klass="info">Vid slutet av varje omgång är det dags för underhåll av alla anläggningar. Underhållsbehovet för varje anläggning representeras genom att skiftnycklar (se bild nedan) läggs på anläggningarna, normalt en per anläggning och omgång. För att reparera anläggningar kan spelarna välja att använda kort som "Skilled engineers" till höger om situationen. För att utföra underhåll måste alla spelare som äger anläggningar slå för MAINTENANCE genom att rulla två tärningar och sedan lägga till antalet skiftnycklar som redan är placerade på anläggningen till summan av tärningarna. Till exempel, om tärningarna visar 2 och 4, och anläggningen har tre skiftnycklar på sig, blir summan 2 + 4 + 3 = 9. Detta resulterar i att en extra skiftnyckel läggs till på anläggningen tills nästa omgång (se MAINTENANCE-kortet för ytterligare detaljer).<img src="bilder/image_63.png"/></text>
+        <text klass="info">För summor av 17 och högre anses anläggningen vara förstörd och kan inte längre användas. Detta innebär att spelaren måste ta itu med förlusten av anläggningen och eventuella konsekvenser som detta kan medföra för deras strategi och framgång i spelet. Se till att vara försiktig med underhållet av dina anläggningar för att undvika sådana katastrofala utfall.<img src="bilder/image_64.png"/><img src="bilder/image_65.png"/></text>
+      </underrubrik>
+      <underrubrik namn="11.1.2. Bokslut för företag" klass="heading3">
+        <text klass="info">I slutet av varje spelomgång i "Att Vända Strömmen", är det dags för företagen att göra upp räkenskaperna. Bokslutet är en noggrann genomgång där företagens ekonomiska status utvärderas för att fastställa deras framsteg och hälsa. Spelarna måste:</text>
+        <text klass="info">Jämföra tillgångar och utgifter: Företagets totala tillgångar och utgifter jämförs för att avgöra den finansiella balansen. Detta moment är avgörande för att förstå företagets lönsamhet och ekonomiska stabilitet.</text>
+        <text klass="info">Summera kontrakt för inkomster: Spelarna granskar sina kontrakt och räknar samman alla inkomstgenererande avtal. Detta kan innefatta försäljning av varor, tjänster, och andra inkomstkällor.</text>
+        <text klass="info">Summera kontrakt för utgifter: På samma sätt summeras alla utgiftskontrakt. Det kan röra sig om kostnader för råmaterial, löner, underhåll och andra operativa utgifter.</text>
+        <text klass="info">Flytta markörer för inkomst och utgift: Efter att inkomster och utgifter har summerats, justerar spelarna sina markörer på statuslinjalen för att återspegla deras ekonomiska resultat. Detta ger en visuell representation av hur företaget har presterat under omgången.</text>
+        <text klass="info">Övervaka produktionsvolymen: För företag som producerar varor är det även viktigt att hålla koll på produktionsvolymen. En markör placeras längs med statuslinjalen för att visa hur mycket som har producerats och därmed indikera effektiviteten i företagets produktion.</text>
+      </underrubrik>
+      <underrubrik namn="11.1.3. Koldioxidavtryck" klass="heading3">
+        <text klass="info">I samband med RESOLVE-fasen beräknas koldioxidavtrycket genom att spelarna samlar svarta stenar till sina bord och placeras på platsen där det står ”Historically emitted CO2”. För varje bricka med grå bakgrund som finns på spelplanen tilldelas varje bord 1 svart sten, vilket motsvarar 1000 ton koldioxidutsläpp.</text>
+        <text klass="info">För att beräkna koldioxidavtrycket börjar spelarna med att ta stenar från 1.5°-budgeten, sedan från 2°C-budgeten och till sist från 2.4°C-budgeten. Detta innebär att spelarna prioriterar att ta stenar från den mest ambitiösa klimatmålsättningen först och arbetar sig neråt.</text>
+        <text klass="info">För att hålla koll på koldioxidavtrycket markeras även antalet stenar på en avlång statuslinjal under omgången. Denna linjal visar hur många stenars avtryck varje bord har genererat under spelets gång. Till exempel, om matföretagen nedan har genererat nio stenar koldioxidavtryck, markeras detta på statuslinjalen för att hålla koll på deras klimatpåverkan.<img src="bilder/image_66.png"/></text>
+      </underrubrik>
+      <underrubrik namn="11.1.4. Aktieutdelning" klass="heading3">
+        <text klass="info">I "Att Vända Strömmen" är aktieutdelningen ett viktigt beslut för företagen att göra i slutet av varje spelomgång. Storleken på utdelningen är en procentuell andel av företagets aktiekapital och påverkar direkt aktieägarnas tillfredsställelse.<img src="bilder/image_67.png"/></text>
+        <text klass="info">Beslut om utdelning: Företaget bestämmer vilken procentandel av aktiekapitalet som ska delas ut till aktieägarna. Detta val kan bero på företagets vinst, strategiska överväganden eller för att uppfylla aktieägarnas förväntningar.</text>
+        <text klass="info">Utdelning per aktie: Utdelningen är lika för alla aktieägare och ger dem en likvärdig andel baserat på hur mycket aktiekapital de äger. Aktieägarna kan vara känsliga för utdelningens storlek och detta kan påverka deras fortsatta investering i företaget.</text>
+        <text klass="info">Minimigräns för utdelning: Det finns en minimigräns för utdelning, till exempel $4 per aktiepost, som kan vara nödvändig för att upprätthålla aktieägarnas förtroende. Om aktieägare får mindre än denna minimigräns kan de omvärdera sin investering i företaget.</text>
+        <text klass="info">Konsekvenser av otillräcklig utdelning: Om företaget inte kan ge en utdelning som är tillfredsställande, och aktieägarna kräver tillbaka sitt kapital, kan företaget stå inför en skuld till aktieägarna. Denna skuld innebär en skyldighet att betala tillbaka det ursprungliga investerade beloppet plus ränta.</text>
+      </underrubrik>
+    </underrubrik>
+  </rubrik>
+  <rubrik namn="12. Construction companies" klass="heading1">
+    <text klass="rubriktext">I spelet "Att Vända Strömmen" har byggföretagen en vital roll i utvecklingen av spelbrädet genom att konstruera nya anläggningar, hus och vägar. De använder sig av ett "Construction system" som är spelets byggmekanism. Här är stegen för att engagera byggföretagen:</text>
+    <text klass="rubriktext">Använda Construction System: Byggföretagen tillhandahåller byggtjänster som representeras genom byggpoäng i spelet. Spelarna måste samla nödvändig arbetskraft, energi, material och transporttjänster för att genomföra byggnationer.</text>
+    <text klass="rubriktext">Kombination av Resurser: Varje byggprojekt i spelet kräver en specifik kombination av resurser som visas i de tre kolumnerna i Construction System. Spelarna måste noggrant välja hur de allokera sina resurser för att maximera byggeffektiviteten.</text>
+    <text klass="rubriktext">Produktion av CONSTRUCTION: Beroende på hur många arbetskraftsenheter som investeras kan ett varierat antal CONSTRUCTION-poäng produceras. I exemplet visas hur en kombination av arbetskraft från medelinkomsttagare (grön bård) och höginkomsttagare (blå bård) resulterar i en total produktion av 10 CONSTRUCTION-poäng.<img src="bilder/image_68.png"/></text>
+    <text klass="rubriktext">Antalet poäng som behövs för att genomföra ett byggprojekt måste motsvara de krav som ställs för att slutföra konstruktionen, och det totala antalet CONSTRUCTION-poäng som kan produceras indikeras längst ner i varje kolumn.</text>
+    <text klass="rubriktext">Genom att interagera med byggföretagen kan spelarna expandera och utveckla sitt inflytande på spelbrädet, bygga viktiga strukturer och därigenom förbättra sina chanser att vinna spelet. Det kräver strategisk planering och resursförvaltning för att lyckas inom byggsektorn i "Att Vända Strömmen".</text>
+    <underrubrik namn="12.1. Att bygga en anläggning" klass="heading2">
+      <text klass="info">Att bygga en anläggning i "Att Vända Strömmen" är en grundläggande del av spelet där spelarna utvecklar sin infrastruktur och resurskapacitet. Här är hur det fungerar:</text>
+      <text klass="info">Byggpoäng Krav: Beroende på anläggningens storlek kräver konstruktionen antingen 1, 3 eller 5 CONSTRUCTION-poäng. Dessa poäng måste spelarna först samla in genom spelets olika mekanismer innan de kan påbörja byggnationen.</text>
+      <text klass="info">Prissättning av Byggpoäng: Spelarna sätter ett pris på varje CONSTRUCTION-poäng baserat på spelmarknadens dynamik. Detta pris påverkar direkt kostnaden för att bygga anläggningen och speglar både material- och arbetskostnader.</text>
+      <text klass="info">Typer av Anläggningar:</text>
+      <text klass="info">Små Anläggningar: Dessa inkluderar projekt som solceller, vindkraftsparker och vattenkraftsanläggningar. De är mer kostnadseffektiva och kräver endast 1 CONSTRUCTION-poäng för att byggas.</text>
+      <text klass="info">Mellanstora Anläggningar: Dessa är mer komplexa och kan inkludera anläggningar för energidistribution som power grids, livsmedelsbearbetning, produktionsfaciliteter och fabriker, vilka kräver 3 CONSTRUCTION-poäng.</text>
+      <text klass="info">Stora Anläggningar: De största och mest resurskrävande projekten som sjukvårds- och skolsystem, kärnkraftverk och geotermiska anläggningar kräver 5 CONSTRUCTION-poäng.</text>
+      <text klass="info">I början av spelet kan priset för en CONSTRUCTION-poäng vara omkring $6, vilket ger spelarna en uppfattning om startkostnaden för byggprojekt. Strategisk resursförvaltning och planering av när och hur man ska bygga är avgörande för att maximera effektiviteten och spelframgången. Spelet uppmuntrar till beslutsfattande som balanserar ekonomiska investeringar med spelets långsiktiga mål, som kan variera från att tjäna pengar till att uppnå hållbarhet och energieffektivitet.</text>
+    </underrubrik>
+    <underrubrik namn="12.2. Waste" klass="heading2">
+      <text klass="info">I "Att Vända Strömmen" hanterar företagen avfall som en integrerad del av deras verksamhet. Varje gång tre enheter av råvaror har förbrukats, genererar detta en enhet avfall. Detta spelelement åskådliggör vikten av hållbarhet och påminner spelarna om de miljöpåverkningar som deras produktion medför.</text>
+      <text klass="info">För att hantera avfallet, kan spelarna välja att investera i återvinningsprocesser. Genom att betala 3 dollar kan en avfallsenhet omvandlas till återvunnet material, vilket kan användas som en resurs i spelet. Denna mekanism uppmuntrar spelarna att tänka på långsiktiga strategier för avfallshantering och resursoptimering.</text>
+      <text klass="info">När mer avfall eller återvunnet material genereras, är det viktigt att informera den tekniska avdelningen (Technical Department) i spelet. Denna avdelning har hand om logistiken kring transport och hantering av avfall och återvunna material. Genom att samarbeta med den tekniska avdelningen kan spelarna säkerställa att deras avfall hanteras korrekt, vilket minskar miljöpåverkan och bidrar till en mer hållbar spelvärld.</text>
+      <text klass="info">Denna avfalls- och återvinningsmekanism är inte bara en kritisk aspekt av spelstrategin utan tjänar även som en pedagogisk punkt om betydelsen av ansvarsfull resurshantering i både spel och verklighet.</text>
+    </underrubrik>
+    <underrubrik namn="12.3. Byggnader" klass="heading2">
+      <text klass="info">På kartan finns fyra typer av bebyggelse, var och en representerad av brickor med olika färger och symboler:</text>
+      <text klass="info">Industribyggnader: Tillhör Regional Industries (lila bård) och Elementa (brun bård).<img src="bilder/image_69.png"/></text>
+      <text klass="info">Universitetsbyggnader: Tillhör Researchers (ljusgrön bård).</text>
+      <text klass="info">Vård, Skola och Omsorg (VSO): Markeras med en ljusblå bård.</text>
+      <text klass="info">Bostäder för olika inkomstgrupper: Bostäder för höginkomsttagare markeras med en röd bård, medelinkomsttagare med en grön bård och låginkomsttagare med en blå bård.</text>
+      <text klass="info">Följande regler gäller för byggandet av nya byggnader på spelbrädet:</text>
+      <text klass="info">Varje ny byggnad av någon av ovanstående fyra typer måste placeras på en motsvarande plats på kartan. Elementa har exempelvis tre District heating-anläggningar där två ligger i Linköping, som visas till höger.</text>
+      <text klass="info">Förhållandet mellan antalet hus och befolkningsmarkörer (de runda markerna) återspeglar trångboddheten i olika befolkningsgrupper. Det totala antalet befolkningsmarkörer indikerar storleken på befolkningsgruppen.</text>
+    </underrubrik>
+    <underrubrik namn="12.4. Resolve" klass="heading2">
+      <text klass="info">Vid varje spelrundas slut inträffar RESOLVE-fasen, en kritisk punkt för alla företag i spelet "Att Vända Strömmen". Under denna fas görs en översyn och avstämning av företagets aktiviteter. Följande aktiviteter är centrala:</text>
+      <text klass="info">Bokslut för företaget</text>
+      <text klass="info">Aktieutdelning</text>
+      <text klass="info">Koldioxidavtryck</text>
+      <text klass="info">Underhålla anläggningar</text>
+      <text klass="info">Denna fas är avgörande eftersom den inte bara visar spelarnas framsteg utan också tvingar dem att överväga konsekvenserna av sina handlingar, både på kort och lång sikt. Spelare måste balansera sina ekonomiska mål med miljöansvar, vilket skapar en komplex och engagerande spelupplevelse.</text>
+      <underrubrik namn="12.4.1. Underhålla anläggningar" klass="heading3">
+        <text klass="info">Vid slutet av varje omgång är det dags för underhåll av alla anläggningar. Underhållsbehovet för varje anläggning representeras genom att skiftnycklar (se bild nedan) läggs på anläggningarna, normalt en per anläggning och omgång. För att reparera anläggningar kan spelarna välja att använda kort som "Skilled engineers" till höger om situationen. För att utföra underhåll måste alla spelare som äger anläggningar slå för MAINTENANCE genom att rulla två tärningar och sedan lägga till antalet skiftnycklar som redan är placerade på anläggningen till summan av tärningarna. Till exempel, om tärningarna visar 2 och 4, och anläggningen har tre skiftnycklar på sig, blir summan 2 + 4 + 3 = 9. Detta resulterar i att en extra skiftnyckel läggs till på anläggningen tills nästa omgång (se MAINTENANCE-kortet för ytterligare detaljer).<img src="bilder/image_70.png"/></text>
+        <text klass="info">För summor av 17 och högre anses anläggningen vara förstörd och kan inte längre användas. Detta innebär att spelaren måste ta itu med förlusten av anläggningen och eventuella konsekvenser som detta kan medföra för deras strategi och framgång i spelet. Se till att vara försiktig med underhållet av dina anläggningar för att undvika sådana katastrofala utfall.<img src="bilder/image_71.png"/><img src="bilder/image_72.png"/></text>
+      </underrubrik>
+      <underrubrik namn="12.4.2. Bokslut för företag" klass="heading3">
+        <text klass="info">I slutet av varje spelomgång i "Att Vända Strömmen", är det dags för företagen att göra upp räkenskaperna. Bokslutet är en noggrann genomgång där företagens ekonomiska status utvärderas för att fastställa deras framsteg och hälsa. Spelarna måste:</text>
+        <text klass="info">Jämföra tillgångar och utgifter: Företagets totala tillgångar och utgifter jämförs för att avgöra den finansiella balansen. Detta moment är avgörande för att förstå företagets lönsamhet och ekonomiska stabilitet.</text>
+        <text klass="info">Summera kontrakt för inkomster: Spelarna granskar sina kontrakt och räknar samman alla inkomstgenererande avtal. Detta kan innefatta försäljning av varor, tjänster, och andra inkomstkällor.</text>
+        <text klass="info">Summera kontrakt för utgifter: På samma sätt summeras alla utgiftskontrakt. Det kan röra sig om kostnader för råmaterial, löner, underhåll och andra operativa utgifter.</text>
+        <text klass="info">Flytta markörer för inkomst och utgift: Efter att inkomster och utgifter har summerats, justerar spelarna sina markörer på statuslinjalen för att återspegla deras ekonomiska resultat. Detta ger en visuell representation av hur företaget har presterat under omgången.</text>
+        <text klass="info">Övervaka produktionsvolymen: För företag som producerar varor är det även viktigt att hålla koll på produktionsvolymen. En markör placeras längs med statuslinjalen för att visa hur mycket som har producerats och därmed indikera effektiviteten i företagets produktion.</text>
+      </underrubrik>
+      <underrubrik namn="12.4.3. Koldioxidavtryck" klass="heading3">
+        <text klass="info">I samband med RESOLVE-fasen beräknas koldioxidavtrycket genom att spelarna samlar svarta stenar till sina bord och placeras på platsen där det står ”Historically emitted CO2”. För varje bricka med grå bakgrund som finns på spelplanen tilldelas varje bord 1 svart sten, vilket motsvarar 1000 ton koldioxidutsläpp.</text>
+        <text klass="info">För att beräkna koldioxidavtrycket börjar spelarna med att ta stenar från 1.5°-budgeten, sedan från 2°C-budgeten och till sist från 2.4°C-budgeten. Detta innebär att spelarna prioriterar att ta stenar från den mest ambitiösa klimatmålsättningen först och arbetar sig neråt.</text>
+        <text klass="info">För att hålla koll på koldioxidavtrycket markeras även antalet stenar på en avlång statuslinjal under omgången. Denna linjal visar hur många stenars avtryck varje bord har genererat under spelets gång. Till exempel, om matföretagen nedan har genererat nio stenar koldioxidavtryck, markeras detta på statuslinjalen för att hålla koll på deras klimatpåverkan.<img src="bilder/image_73.png"/></text>
+      </underrubrik>
+      <underrubrik namn="12.4.4. Aktieutdelning" klass="heading3">
+        <text klass="info">I "Att Vända Strömmen" är aktieutdelningen ett viktigt beslut för företagen att göra i slutet av varje spelomgång. Storleken på utdelningen är en procentuell andel av företagets aktiekapital och påverkar direkt aktieägarnas tillfredsställelse.<img src="bilder/image_74.png"/></text>
+        <text klass="info">Beslut om utdelning: Företaget bestämmer vilken procentandel av aktiekapitalet som ska delas ut till aktieägarna. Detta val kan bero på företagets vinst, strategiska överväganden eller för att uppfylla aktieägarnas förväntningar.</text>
+        <text klass="info">Utdelning per aktie: Utdelningen är lika för alla aktieägare och ger dem en likvärdig andel baserat på hur mycket aktiekapital de äger. Aktieägarna kan vara känsliga för utdelningens storlek och detta kan påverka deras fortsatta investering i företaget.</text>
+        <text klass="info">Minimigräns för utdelning: Det finns en minimigräns för utdelning, till exempel $4 per aktiepost, som kan vara nödvändig för att upprätthålla aktieägarnas förtroende. Om aktieägare får mindre än denna minimigräns kan de omvärdera sin investering i företaget.</text>
+        <text klass="info">Konsekvenser av otillräcklig utdelning: Om företaget inte kan ge en utdelning som är tillfredsställande, och aktieägarna kräver tillbaka sitt kapital, kan företaget stå inför en skuld till aktieägarna. Denna skuld innebär en skyldighet att betala tillbaka det ursprungliga investerade beloppet plus ränta.</text>
+      </underrubrik>
+    </underrubrik>
+  </rubrik>
+  <rubrik namn="13. Regional industries" klass="heading1">
+    <underrubrik namn="13.1. Pulp mill/factory" klass="heading2">
+      <text klass="info">I "Att Vända Strömmen" är regionala industrier som massa- och pappersbruk centrala för produktionen av industriprodukter. Deras aktiviteter under interaktionsfasen inkluderar:</text>
+      <text klass="info">Produktion: De använder en kombination av arbetskraft, värme, energi och råmaterial för att producera varor som kan säljas på både lokala och internationella marknader.</text>
+      <text klass="info">Resurskrav: För att driva produktionen krävs specifika resurser. Spelare måste säkra en tillförlitlig tillgång till dessa för att hålla igång sina fabriker och upprätthålla produktionstakten.</text>
+      <text klass="info">Arbetskraftens Inverkan: Beroende på mängden arbetskraft som anläggningen har tillgång till, kan olika mängder produkter produceras. Exempelvis kan användningen av ROBOTIC WORKFORCE öka effektiviteten och produktionskapaciteten.</text>
+      <text klass="info">Produktionens Natur: Typen av industriprodukter som produceras beror på de råvaror och energiformer som används. Om endast grön energi och hållbara råmaterial används, resulterar detta i gröna industriprodukter. Användningen av icke-hållbara resurser leder istället till produktion av gråa industriprodukter, vilket speglar spelets fokus på hållbarhet.</text>
+      <text klass="info">I det givna exemplet nedan producerar anläggningen fyra enheter av en produkt baserat på insatsen av gröna råvaror och energi, med hjälp av en robotiserad arbetskraft. Spelare måste strategiskt planera sina resursinköp och produktion för att maximera sin avkastning samtidigt som de navigerar i spelets miljömässiga krav.<img src="bilder/image_75.png"/></text>
+    </underrubrik>
+    <underrubrik namn="13.2. Production facility" klass="heading2">
+      <text klass="info">I "Att Vända Strömmen" representerar en produktionsanläggning en central del av spelarens industriella kapacitet. Här är processen för att driva en sådan anläggning:</text>
+      <text klass="info">Produktion av Varor: Produktionsanläggningen är platsen där spelare kan producera antingen konsumentprodukter (GOODS) eller exportvaror, vilket utgör en viktig del av spelets ekonomi.</text>
+      <text klass="info">Resurskrav: Varje anläggning behöver en specifik kombination av arbetskraft, värme och energi, samt transporttjänster för att kunna producera industrivaror. Dessa resurser måste samlas och koordineras för att produktionen ska kunna ske.</text>
+      <text klass="info">Skalbar Produktion: Beroende på tillgänglig arbetskraft och de råvaror som anläggningen förfogar över, kan produktionen variera i skala och typ. I det givna exemplet använder anläggningen arbetskraft från låginkomsttagare för att producera sex enheter av ECO GOODS, vilket innebär miljövänliga eller hållbart producerade varor.</text>
+      <text klass="info">Grön Industri: Endast produkter tillverkade med grön energi och hållbara råmaterial klassificeras som GREEN INDUSTRY GOODS. Detta bidrar till spelets övergripande tematik av hållbar utveckling och kan även påverka spelets slutresultat och belöningar baserade på miljöprestation.</text>
+      <text klass="info">Spelare som effektivt hanterar sin produktionsanläggning och fokuserar på hållbar produktion kommer sannolikt att ha fördelar i spelet, inte bara genom omedelbara ekonomiska vinster utan också genom långsiktiga poäng för hållbarhetsmål.</text>
+      <img src="bilder/image_76.png"/>
+    </underrubrik>
+    <underrubrik namn="13.3. Automated system" klass="heading2">
+      <text klass="info">I "Att Vända Strömmen" kan regionala industrier investera i automatisering för att effektivisera sin produktion. Detta görs genom ett automatiserat system:</text>
+      <text klass="info">Införande av Automatisering: Genom att använda kombinationer av arbetskraft och elektricitet kan industrier utveckla ROBOTIC WORKFORCE för automatisering av sina processer. Detta speglar moderna industrins förflyttning mot högre effektivitet och produktivitet.<img src="bilder/image_77.png"/></text>
+      <text klass="info">Skapande av Robotarbetare: Baserat på den typ av arbetskraft som finns tillgänglig, kan industrier skapa en varierande mängd robotiserad arbetskraft. I spelet kan detta exempelvis innebära att en arbetskraftsenhet från en höginkomsttagare (röd bård) möjliggör tillgången till flera enheter av ROBOTIC WORKFORCE.</text>
+      <text klass="info">Användning i Industrianläggningar: Dessa robotiserade arbetskrafter kan sedan användas i andra industrianläggningar för att producera olika varor. I exemplet visas hur användning av arbetskraft från en höginkomsttagare resulterar i tillgång till tre enheter av ROBOTIC WORKFORCE, vilket potentiellt kan öka produktionen av varor eller minska produktionskostnader.</text>
+      <text klass="info">Automatiseringen inom "Att Vända Strömmen" kräver att spelarna gör kloka val gällande investeringar i teknologi och hantering av arbetskraft. Att effektivt balansera dessa beslut är avgörande för att kunna konkurrera och framgångsrikt expandera sin industriella verksamhet i spelet.</text>
+    </underrubrik>
+    <underrubrik namn="13.4. Waste" klass="heading2">
+      <text klass="info">I "Att Vända Strömmen" hanterar företagen avfall som en integrerad del av deras verksamhet. Varje gång tre enheter av råvaror har förbrukats, genererar detta en enhet avfall. Detta spelelement åskådliggör vikten av hållbarhet och påminner spelarna om de miljöpåverkningar som deras produktion medför.</text>
+      <text klass="info">För att hantera avfallet, kan spelarna välja att investera i återvinningsprocesser. Genom att betala 3 dollar kan en avfallsenhet omvandlas till återvunnet material, vilket kan användas som en resurs i spelet. Denna mekanism uppmuntrar spelarna att tänka på långsiktiga strategier för avfallshantering och resursoptimering.</text>
+      <text klass="info">När mer avfall eller återvunnet material genereras, är det viktigt att informera den tekniska avdelningen (Technical Department) i spelet. Denna avdelning har hand om logistiken kring transport och hantering av avfall och återvunna material. Genom att samarbeta med den tekniska avdelningen kan spelarna säkerställa att deras avfall hanteras korrekt, vilket minskar miljöpåverkan och bidrar till en mer hållbar spelvärld.</text>
+      <text klass="info">Denna avfalls- och återvinningsmekanism är inte bara en kritisk aspekt av spelstrategin utan tjänar även som en pedagogisk punkt om betydelsen av ansvarsfull resurshantering i både spel och verklighet.</text>
+    </underrubrik>
+    <underrubrik namn="13.5. Resolve" klass="heading2">
+      <text klass="info">Vid varje spelrundas slut inträffar RESOLVE-fasen, en kritisk punkt för alla företag i spelet "Att Vända Strömmen". Under denna fas görs en översyn och avstämning av företagets aktiviteter. Följande aktiviteter är centrala:</text>
+      <text klass="info">Bokslut för företaget</text>
+      <text klass="info">Aktieutdelning</text>
+      <text klass="info">Koldioxidavtryck</text>
+      <text klass="info">Underhålla anläggningar</text>
+      <text klass="info">Denna fas är avgörande eftersom den inte bara visar spelarnas framsteg utan också tvingar dem att överväga konsekvenserna av sina handlingar, både på kort och lång sikt. Spelare måste balansera sina ekonomiska mål med miljöansvar, vilket skapar en komplex och engagerande spelupplevelse.</text>
+      <underrubrik namn="13.5.1. Underhålla anläggningar" klass="heading3">
+        <text klass="info">Vid slutet av varje omgång är det dags för underhåll av alla anläggningar. Underhållsbehovet för varje anläggning representeras genom att skiftnycklar (se bild nedan) läggs på anläggningarna, normalt en per anläggning och omgång. För att reparera anläggningar kan spelarna välja att använda kort som "Skilled engineers" till höger om situationen. För att utföra underhåll måste alla spelare som äger anläggningar slå för MAINTENANCE genom att rulla två tärningar och sedan lägga till antalet skiftnycklar som redan är placerade på anläggningen till summan av tärningarna. Till exempel, om tärningarna visar 2 och 4, och anläggningen har tre skiftnycklar på sig, blir summan 2 + 4 + 3 = 9. Detta resulterar i att en extra skiftnyckel läggs till på anläggningen tills nästa omgång (se MAINTENANCE-kortet för ytterligare detaljer).<img src="bilder/image_78.png"/></text>
+        <text klass="info">För summor av 17 och högre anses anläggningen vara förstörd och kan inte längre användas. Detta innebär att spelaren måste ta itu med förlusten av anläggningen och eventuella konsekvenser som detta kan medföra för deras strategi och framgång i spelet. Se till att vara försiktig med underhållet av dina anläggningar för att undvika sådana katastrofala utfall.<img src="bilder/image_79.png"/><img src="bilder/image_80.png"/></text>
+      </underrubrik>
+      <underrubrik namn="13.5.2. Bokslut för företag" klass="heading3">
+        <text klass="info">I slutet av varje spelomgång i "Att Vända Strömmen", är det dags för företagen att göra upp räkenskaperna. Bokslutet är en noggrann genomgång där företagens ekonomiska status utvärderas för att fastställa deras framsteg och hälsa. Spelarna måste:</text>
+        <text klass="info">Jämföra tillgångar och utgifter: Företagets totala tillgångar och utgifter jämförs för att avgöra den finansiella balansen. Detta moment är avgörande för att förstå företagets lönsamhet och ekonomiska stabilitet.</text>
+        <text klass="info">Summera kontrakt för inkomster: Spelarna granskar sina kontrakt och räknar samman alla inkomstgenererande avtal. Detta kan innefatta försäljning av varor, tjänster, och andra inkomstkällor.</text>
+        <text klass="info">Summera kontrakt för utgifter: På samma sätt summeras alla utgiftskontrakt. Det kan röra sig om kostnader för råmaterial, löner, underhåll och andra operativa utgifter.</text>
+        <text klass="info">Flytta markörer för inkomst och utgift: Efter att inkomster och utgifter har summerats, justerar spelarna sina markörer på statuslinjalen för att återspegla deras ekonomiska resultat. Detta ger en visuell representation av hur företaget har presterat under omgången.</text>
+        <text klass="info">Övervaka produktionsvolymen: För företag som producerar varor är det även viktigt att hålla koll på produktionsvolymen. En markör placeras längs med statuslinjalen för att visa hur mycket som har producerats och därmed indikera effektiviteten i företagets produktion.</text>
+      </underrubrik>
+      <underrubrik namn="13.5.3. Koldioxidavtryck" klass="heading3">
+        <text klass="info">I samband med RESOLVE-fasen beräknas koldioxidavtrycket genom att spelarna samlar svarta stenar till sina bord och placeras på platsen där det står ”Historically emitted CO2”. För varje bricka med grå bakgrund som finns på spelplanen tilldelas varje bord 1 svart sten, vilket motsvarar 1000 ton koldioxidutsläpp.</text>
+        <text klass="info">För att beräkna koldioxidavtrycket börjar spelarna med att ta stenar från 1.5°-budgeten, sedan från 2°C-budgeten och till sist från 2.4°C-budgeten. Detta innebär att spelarna prioriterar att ta stenar från den mest ambitiösa klimatmålsättningen först och arbetar sig neråt.</text>
+        <text klass="info">För att hålla koll på koldioxidavtrycket markeras även antalet stenar på en avlång statuslinjal under omgången. Denna linjal visar hur många stenars avtryck varje bord har genererat under spelets gång. Till exempel, om matföretagen nedan har genererat nio stenar koldioxidavtryck, markeras detta på statuslinjalen för att hålla koll på deras klimatpåverkan.<img src="bilder/image_81.png"/></text>
+      </underrubrik>
+      <underrubrik namn="13.5.4. Aktieutdelning" klass="heading3">
+        <text klass="info">I "Att Vända Strömmen" är aktieutdelningen ett viktigt beslut för företagen att göra i slutet av varje spelomgång. Storleken på utdelningen är en procentuell andel av företagets aktiekapital och påverkar direkt aktieägarnas tillfredsställelse.<img src="bilder/image_82.png"/></text>
+        <text klass="info">Beslut om utdelning: Företaget bestämmer vilken procentandel av aktiekapitalet som ska delas ut till aktieägarna. Detta val kan bero på företagets vinst, strategiska överväganden eller för att uppfylla aktieägarnas förväntningar.</text>
+        <text klass="info">Utdelning per aktie: Utdelningen är lika för alla aktieägare och ger dem en likvärdig andel baserat på hur mycket aktiekapital de äger. Aktieägarna kan vara känsliga för utdelningens storlek och detta kan påverka deras fortsatta investering i företaget.</text>
+        <text klass="info">Minimigräns för utdelning: Det finns en minimigräns för utdelning, till exempel $4 per aktiepost, som kan vara nödvändig för att upprätthålla aktieägarnas förtroende. Om aktieägare får mindre än denna minimigräns kan de omvärdera sin investering i företaget.</text>
+        <text klass="info">Konsekvenser av otillräcklig utdelning: Om företaget inte kan ge en utdelning som är tillfredsställande, och aktieägarna kräver tillbaka sitt kapital, kan företaget stå inför en skuld till aktieägarna. Denna skuld innebär en skyldighet att betala tillbaka det ursprungliga investerade beloppet plus ränta.</text>
+      </underrubrik>
+    </underrubrik>
+  </rubrik>
+  <rubrik namn="14. Food supplier" klass="heading1">
+    <text klass="rubriktext">I brädspelet "Att Vända Strömmen" har matleverantörerna en vital roll där de ser till att befolkningen får det nödvändiga livsmedlet - maten. Här är en detaljerad genomgång av deras ansvarsområden och funktioner:<img src="bilder/image_83.png"/></text>
+    <text klass="rubriktext">Råvaruanskaffning och Förädling: Matleverantörerna ansvarar för att skaffa råvaror antingen genom egen produktion av grödor eller genom inköp från marknaden. Dessa råvaror kan vara allt från spannmål till andra jordbruksprodukter som krävs för att producera mat.</text>
+    <text klass="rubriktext">Djurhållning: De kan konvertera grödor till animaliska produkter genom djurhållning, vilket simulerar den verkliga livsmedelsproduktionens process från plantbaserat till köttbaserat.<img src="bilder/image_84.png"/></text>
+    <text klass="rubriktext">Matbearbetning (Food Processing): Genom bearbetningsprocessen förädlas råvaror till färdiga matprodukter. Detta kräver en kombination av arbetskraft och energi för att transformera grödor till färdiga livsmedel.</text>
+    <text klass="rubriktext">Import och Lagerhantering (Import Warehouse): Matleverantörer hanterar också importerade livsmedel, vilket innebär att de måste hantera transport och lagring av importerade råvaror eller färdig mat.</text>
+    <text klass="rubriktext">Övertidsarbete och Effektivitet: Arbetskraft inom matleveranssektorn kan hantera större volymer av varor genom övertidsarbete. Detta innebär en extra kostnad men kan vara nödvändigt för att möta efterfrågan från befolkningen eller offentlig verksamhet.</text>
+    <text klass="rubriktext">Företagsdrift: Liksom andra företag i spelet hanterar matleverantörerna inkomster och utgifter, strategiska beslut om produktionseffektivitet och måste balansera sin budget för att vara lönsamma.</text>
+    <text klass="rubriktext">Denna översikt visar på de olika aspekterna av att vara matleverantör i spelet, vilket innebär ett ansvar för att säkerställa matförsörjningen samtidigt som man balanserar ekonomiska och operativa utmaningar. Spelarna måste strategiskt överväga hur de investerar i och utnyttjar sina resurser för att maximera sin produktion och sin lönsamhet.</text>
+    <underrubrik namn="14.1. Jordbruk" klass="heading2">
+      <text klass="info">Som en matleverantör i spelet "Att Vända Strömmen" innefattar din jordbruksverksamhet en rad viktiga processer för att förse spelvärlden med mat. Här är en beskrivning av hur jordbruksfasen fungerar:</text>
+      <text klass="info">Crops Produktion: Din första uppgift är att producera 'CROPS' som senare kommer användas för att skapa 'FOOD'. Dessa grödor representerar grundläggande livsmedelsingredienser som vete, majs, eller andra grönsaker och spannmål.</text>
+      <text klass="info">Traktoranvändning: För varje odlingsmark krävs det en traktor. Traktorn symboliserar den maskinella arbetskraft och teknologi som krävs för att bearbeta jorden och odla grödor effektivt.</text>
+      <text klass="info">Energiförbrukning: En traktor kan drivas antingen med en 'grön' energikälla, vilket kan representera förnybar energi, eller två 'grå' energikällor som symboliserar mer traditionella energikällor som diesel eller bensin. I spelet omvandlas 1 DIESEL + 1 EL till 6 traktorer, vilket visar på en energieffektiviseringsmekanism.</text>
+      <text klass="info">Odlingsmarks Kapacitet: En odlingsmark kan underhålla kapaciteten för en traktor, vilket betyder att du måste balansera antalet traktorer med den tillgängliga odlingsmarken för att maximera din produktion.</text>
+      <text klass="info">Djurhållning och Matbearbetning: Genom 'ANIMAL HUSBANDRY' och 'FOOD PROCESSING' kan du omvandla dina grödor till animaliska produkter eller vidareförädlade vegetariska livsmedel. Detta reflekterar de olika stegen i livsmedelsförädlingen från råvara till konsumentprodukter.</text>
+      <text klass="info">Att navigera jordbruksfasen kräver strategisk planering av resurser, eftersom varje beslut om energianvändning, traktortilldelning, och grödproduktion kommer att ha en direkt effekt på din kapacitet att producera mat och därigenom påverka din förmåga att tillgodose befolkningens matbehov. Det krävs en noggrann avvägning mellan produktionskostnader och slutresultatet för att driva en effektiv och lönsam matleveransverksamhet i spelet.</text>
+      <img src="bilder/image_85.png"/>
+    </underrubrik>
+    <underrubrik namn="14.2. Kartan - Jordbruk och skogsbruk" klass="heading2">
+      <text klass="info">Skogsbruk: För att bedriva skogsbruk placeras en skördare, representerad av en bricka med ljusgrön bård, på en skogsruta på spelplanen. Detta indikerar att skogen skördas för trä eller andra skogsråvaror.</text>
+      <text klass="info">Jordbruk: För att bedriva jordbruk placeras en traktor på varje ruta på jordbruksmarken, vilket visas i exemplet nedan till vänster. Detta indikerar att marken bearbetas för att odla grödor eller boskap.</text>
+      <text klass="info">Krav för Skogsbruk &amp; Jordbruk: Skogsbruk och jordbruk kan bara bedrivas om det finns en fungerande väg i området. Vägen är nödvändig för att transportera skogsråvaror och jordbruksprodukter till marknaden eller andra destinationer.<img src="bilder/image_86.png"/><img src="bilder/image_87.png"/></text>
+    </underrubrik>
+    <underrubrik namn="14.3. Animal husbandry" klass="heading2">
+      <text klass="info">I spelet "Att Vända Strömmen" ingår djurhållning som en kritisk aspekt av matleveranssystemet. Här är en förklaring av hur processen fungerar:</text>
+      <text klass="info">Omställning från grödor till animalisk mat: Djurhållning (Animal Husbandry) tar 'CROPS' och omvandlar dem till 'FOOD (Animal)'. Denna transformation illustrerar omvandlingen av vegetabiliska produkter till animaliska livsmedel, till exempel foder till kött eller mjölk.<img src="bilder/image_88.png"/></text>
+      <text klass="info">Proportionell produktion: Antalet 'FOOD (Animal)' som produceras är direkt proportionellt mot antalet 'CROPS' som använts. Det innebär att omvandlingsprocessen är 1:1, vilket visar att ingen 'CROP' går till spillo i omvandlingen.</text>
+      <text klass="info">Färgkodning för hållbarhet: Livsmedel som produceras (Animal FOOD) kommer att ha samma färg som 'CROPS' de baseras på, vilket indikerar om de är hållbara (grön) eller mindre hållbara (grå). Detta kan reflektera spelets inbyggda mekanismer för att uppmuntra hållbara jordbrukspraktiker.</text>
+      <text klass="info">Den här processen betonar vikten av att hållbart utnyttja jordbruksresurser för att producera mat och kan användas för att undervisa spelare om sambanden mellan jordbruk, djurhållning och livsmedelsproduktion. Spelarens förmåga att effektivt balansera dessa element kan ha stor inverkan på framgången för deras matleverantörsverksamhet i spelet.</text>
+    </underrubrik>
+    <underrubrik namn="14.4. Food processing" klass="heading2">
+      <text klass="info">I spelet "Att Vända Strömmen" omvandlar Food Processing-rutan 'CROPS' till 'FOOD (Veg)' med hjälp av en kombination av arbetskraft och energi. Här är en kort beskrivning av hur denna del av spelet fungerar:</text>
+      <text klass="info">Krav för förädling: Varje förädlingsprocess kräver en arbetsenhet (WORKFORCE) och en energienhet för att kunna utföra transformationen av råvaror till matprodukter.</text>
+      <text klass="info">Effektivitetskvot: När 'CROPS' bearbetas genom livsmedelsförädlingen, ökar mängden 'FOOD' trefaldigt, vilket visar på en hög förädlingsgrad där råvaror omvandlas till färdiga vegetariska livsmedel med minimalt spill.</text>
+      <text klass="info">Hållbarhetsindikator: Den färdiga 'FOOD (Veg)' erhåller samma färg som de 'CROPS' den kommer från. En brun bård indikerar dess ursprung och kopplas till livsmedelsleverantören. Detta kan fungera som en enkel indikator för spelets fokus på hållbarhet och kretsloppstänk.</text>
+      <text klass="info">Anpassningsbar arbetskraft: Beroende på tillgänglig arbetskraft kan en anläggning behöva justera antalet förädlade 'CROPS' för att möta efterfrågan. Det illustreras av symbolerna till höger, som anger arbetskraften som behövs per förädlingsprocess.</text>
+      <text klass="info">Spelet tycks undervisa spelarna i hur man effektivt kan omvandla råvaror till färdiga matprodukter, samtidigt som man upprätthåller en hållbar produktionskedja. Denna del av spelet lyfter vikten av att balansera resurser och energi för att optimera produktionen.</text>
+      <img src="bilder/image_89.png"/>
+    </underrubrik>
+    <underrubrik namn="14.5. Import Warehouse" klass="heading2">
+      <text klass="info">Spelet "Att Vända Strömmen" inkluderar en process för import av livsmedel, vilket simulerar internationell handel och dess inverkan på matförsörjning och ekonomi. Så här beskrivs spelets mekanik kring importlagret:</text>
+      <text klass="info">Importmöjlighet: Livsmedelsleverantörer kan köpa mat (FOOD) från den internationella marknaden via importlagret. Detta skapar en länk mellan global handel och lokala aktörer inom spelet.</text>
+      <text klass="info">Riskhantering: Att importera mat innebär en risk, vilket representeras i spelet genom en tärningsslagsmekanism. För varje matenhet (FOOD) som placeras i importlagret, kastas en tärning. Ett resultat mellan 1 och 3 innebär ingen effekt för den runden och symboliseras genom att vända på brickan.<img src="bilder/image_90.png"/></text>
+      <text klass="info">Resurskrav: Importlagret kräver en arbetskraftsenhet (WORKFORCE) och lika mycket transportkapacitet (TRANSPORT) som de importerade matenheterna för att kunna fungera.</text>
+      <text klass="info">Matförsäljning och distribution: När livsmedelsleverantören har kommit överens om försäljning av maten, anges detta genom motsvarande markörer (grön för hållbar och grå för annat) som indikerar matens ursprung och leverantör.</text>
+      <text klass="info">Arbetsflexibilitet: Beroende på arbetskraftens typ och tillgänglighet kan importlagret hantera olika mängder råvaror för att producera mat som sedan distribueras, vilket indikerar spelets fokus på arbetskraftseffektivitet och dess roll i matproduktionen.</text>
+      <text klass="info">Denna del av spelet betonar komplexiteten och riskerna med global handel, samt vikten av arbetskraft och transport i hanteringen av importvaror. Det ger spelarna en inblick i hur livsmedelsförsörjningskedjor fungerar på en internationell nivå och utmaningarna som kommer med att hålla en stadig tillgång av mat tillgänglig.</text>
+    </underrubrik>
+    <underrubrik namn="14.6. Underhålla anläggningar" klass="heading2">
+      <text klass="info">Vid slutet av varje omgång är det dags för underhåll av alla anläggningar. Underhållsbehovet för varje anläggning representeras genom att skiftnycklar (se bild nedan) läggs på anläggningarna, normalt en per anläggning och omgång. För att reparera anläggningar kan spelarna välja att använda kort som "Skilled engineers" till höger om situationen. För att utföra underhåll måste alla spelare som äger anläggningar slå för MAINTENANCE genom att rulla två tärningar och sedan lägga till antalet skiftnycklar som redan är placerade på anläggningen till summan av tärningarna. Till exempel, om tärningarna visar 2 och 4, och anläggningen har tre skiftnycklar på sig, blir summan 2 + 4 + 3 = 9. Detta resulterar i att en extra skiftnyckel läggs till på anläggningen tills nästa omgång (se MAINTENANCE-kortet för ytterligare detaljer).<img src="bilder/image_91.png"/></text>
+      <text klass="info">För summor av 17 och högre anses anläggningen vara förstörd och kan inte längre användas. Detta innebär att spelaren måste ta itu med förlusten av anläggningen och eventuella konsekvenser som detta kan medföra för deras strategi och framgång i spelet. Se till att vara försiktig med underhållet av dina anläggningar för att undvika sådana katastrofala utfall.<img src="bilder/image_92.png"/><img src="bilder/image_93.png"/></text>
+    </underrubrik>
+    <underrubrik namn="14.7. Resolve" klass="heading2">
+      <text klass="info">I slutskedet av en spelomgång av "Att Vända Strömmen" fokuserar livsmedelsleverantörens roll på att sammanställa och utvärdera spelets olika aspekter. Detta inkluderar:</text>
+      <text klass="info">Bokslut: Gör en översikt över företagets ekonomi och resultat. Detta innebär att sammanställa intäkter och kostnader för att få en bild av hur väl företaget har presterat.</text>
+      <text klass="info">Koldioxidavtryck: Beräkna företagets koldioxidavtryck, vilket innebär att mäta mängden växthusgaser som har producerats genom företagets aktiviteter. I spelet kan detta representeras genom samlade poäng eller en beräkningsmekanism som tar hänsyn till produktion och transport.</text>
+      <text klass="info">Aktieutdelning: Beslut om hur mycket vinster som ska delas ut till aktieägare, vilket kan påverka spelarens strategi och företagets långsiktiga hållbarhet.</text>
+      <text klass="info">Produktionskontroll: Övervaka och justera produktionen av mat, både animalisk och vegetarisk, för att säkerställa att den motsvarar kapaciteten och efterfrågan. Detta inkluderar att balansera tillgängliga resurser i Import Warehouse och Farming System för att optimera output.</text>
+      <text klass="info">Traktorbalans: Se till att antalet traktorer stämmer överens med det antal som kan underhållas via Farming System, vilket är en viktig del i spelets resurshantering.</text>
+      <text klass="info">Denna avslutningsfas ger spelaren en möjlighet att reflektera över sina beslut och dess inverkan på både ekonomin och miljön, vilket är centralt för spelets utbildningsmål kring hållbarhet och resurshantering.</text>
+      <underrubrik namn="14.7.1. Bokslut för livsmedelsföretag" klass="heading3">
+        <text klass="info">I bokslutsfasen för livsmedelsföretag inom spelet "Att Vända Strömmen" utförs en ekonomisk sammanställning och analys. Detta inkluderar att:</text>
+        <text klass="info">Jämföra företagets tillgångar och utgifter för att upprätta balansräkningen. Detta innebär att utvärdera företagets finansiella ställning genom att se över vad som ägs jämfört med vad som skyldas.</text>
+        <text klass="info">Summera alla kontrakt som ger inkomster för företaget. Dessa kan innefatta försäljning av produkter, tjänster eller andra inkomstbringande aktiviteter.</text>
+        <text klass="info">Summera alla kontrakt som ger utgifter. Detta inkluderar alla kostnader som är kopplade till driften av företaget, såsom råvaror, löner, transport och andra driftskostnader.</text>
+        <text klass="info">Flytta markörerna för inkomst och utgift på statuslinjalen för att tydligt visualisera och följa företagets finansiella resultat över tid.</text>
+        <text klass="info">Ange volymen av köp och försäljning av olika matvaror på statuslinjalen samt antalet traktorer och transporter som används i regionen. Detta ger en överblick av företagets operativa verksamhet och dess effektivitet.</text>
+        <text klass="info">Dessa åtgärder är viktiga för att ge spelarna en förståelse för ekonomisk förvaltning och för att kunna göra strategiska beslut baserat på företagets prestationer och tillgängliga resurser<img src="bilder/image_94.png"/></text>
+      </underrubrik>
+      <underrubrik namn="14.7.2. Koldioxidavtryck" klass="heading3">
+        <text klass="info">I samband med RESOLVE-fasen beräknas koldioxidavtrycket genom att spelarna samlar svarta stenar till sina bord och placeras på platsen där det står ”Historically emitted CO2”. För varje bricka med grå bakgrund som finns på spelplanen tilldelas varje bord 1 svart sten, vilket motsvarar 1000 ton koldioxidutsläpp.</text>
+        <text klass="info">För att beräkna koldioxidavtrycket börjar spelarna med att ta stenar från 1.5°-budgeten, sedan från 2°C-budgeten och till sist från 2.4°C-budgeten. Detta innebär att spelarna prioriterar att ta stenar från den mest ambitiösa klimatmålsättningen först och arbetar sig neråt.</text>
+        <text klass="info">För att hålla koll på koldioxidavtrycket markeras även antalet stenar på en avlång statuslinjal under omgången. Denna linjal visar hur många stenars avtryck varje bord har genererat under spelets gång. Till exempel, om matföretagen nedan har genererat nio stenar koldioxidavtryck, markeras detta på statuslinjalen för att hålla koll på deras klimatpåverkan.<img src="bilder/image_95.png"/></text>
+      </underrubrik>
+      <underrubrik namn="14.7.3. Aktieutdelning" klass="heading3">
+        <text klass="info">I "Att Vända Strömmen" är aktieutdelningen ett viktigt beslut för företagen att göra i slutet av varje spelomgång. Storleken på utdelningen är en procentuell andel av företagets aktiekapital och påverkar direkt aktieägarnas tillfredsställelse.<img src="bilder/image_96.png"/></text>
+        <text klass="info">Beslut om utdelning: Företaget bestämmer vilken procentandel av aktiekapitalet som ska delas ut till aktieägarna. Detta val kan bero på företagets vinst, strategiska överväganden eller för att uppfylla aktieägarnas förväntningar.</text>
+        <text klass="info">Utdelning per aktie: Utdelningen är lika för alla aktieägare och ger dem en likvärdig andel baserat på hur mycket aktiekapital de äger. Aktieägarna kan vara känsliga för utdelningens storlek och detta kan påverka deras fortsatta investering i företaget.</text>
+        <text klass="info">Minimigräns för utdelning: Det finns en minimigräns för utdelning, till exempel $4 per aktiepost, som kan vara nödvändig för att upprätthålla aktieägarnas förtroende. Om aktieägare får mindre än denna minimigräns kan de omvärdera sin investering i företaget.</text>
+        <text klass="info">Konsekvenser av otillräcklig utdelning: Om företaget inte kan ge en utdelning som är tillfredsställande, och aktieägarna kräver tillbaka sitt kapital, kan företaget stå inför en skuld till aktieägarna. Denna skuld innebär en skyldighet att betala tillbaka det ursprungliga investerade beloppet plus ränta.</text>
+      </underrubrik>
+    </underrubrik>
+  </rubrik>
+  <rubrik namn="15. Forest companies" klass="heading1">
+    <text klass="rubriktext">Skogsbolag inom spelet "Att Vända Strömmen" spelar en avgörande roll i hanteringen och förädlingen av skogstillgångar. Deras aktiviteter innefattar:<img src="bilder/image_97.png"/></text>
+    <text klass="rubriktext">Skörda skogsmaterial från skogsmark med hjälp av ett skördarsystem (HARVESTING SYSTEM).</text>
+    <text klass="rubriktext">Tillhandahålla råmaterial till olika energiproducenter som använder skogsmaterial för produktion.</text>
+    <text klass="rubriktext">Verka i skogsmark där de skördar (HARVESTER), vilket kan inkludera ansvar för hållbar skogsbruk och återplantering för att säkerställa skogens långsiktiga hälsa.</text>
+    <text klass="rubriktext">När skogsmaterial ska transporteras utanför det område där skogsbolaget är verksamt, måste adekvat transport arrangeras för att säkerställa en effektiv leverans till marknaden eller direkt till kunder.</text>
+    <text klass="rubriktext">För att bedriva verksamheten effektivt behöver skogsbolagen hantera både inkomster och utgifter:</text>
+    <text klass="rubriktext">Inkomster kan inkludera försäljning av skogsmaterial till marknaden, avtal med energiproducenter, eller andra intäkter relaterade till skogsprodukter.</text>
+    <text klass="rubriktext">Utgifter omfattar kostnader för skörd, transport, personal och andra operativa kostnader.</text>
+    <text klass="rubriktext">Genom att upprätta ett bokslut och räkna ut företagets koldioxidavtryck, kan skogsbolag även bidra till hållbarhetsmål genom att minska sitt miljömässiga fotavtryck och upprätthålla en balans mellan ekonomisk tillväxt och miljöansvar.</text>
+    <underrubrik namn="15.1. Harvesting system" klass="heading2">
+      <text klass="info">Inom "Att Vända Strömmen"-spelets värld har skogsföretagen en viktig funktion i att förvalta och skörda skogsresurser:</text>
+      <text klass="info">Skördningssystemet (HARVESTING SYSTEM) tillåter konvertering av bränsle till arbetskraft. Exempelvis kan 1 enhet FOSSIL FUEL eller BIO FUEL omvandlas till 9 HARVESTERS.</text>
+      <text klass="info">Varje HARVESTER som placeras på en skogsmarksruta representerar produktionen av 1 enhet FOREST MATERIAL.</text>
+      <text klass="info">Dessa material kan sedan användas direkt för energiproduktion eller vidareförädlas för olika användningsområden inom spelet.</text>
+      <text klass="info">Denna process illustrerar spelets fokus på resurshantering och simulering av produktionskedjor, där skogsföretagens verksamhet är direkt kopplad till tillgängligheten och användningen av naturresurser. Genom att effektivt använda bränsleresurserna kan skogsföretagen maximera sin skörd av FOREST MATERIAL och därmed sin produktionskapacitet.</text>
+      <img src="bilder/image_98.png"/>
+    </underrubrik>
+    <underrubrik namn="15.2. Harvesting" klass="heading2">
+      <text klass="info">I spelet "Att Vända Strömmen" sker avverkningen enligt följande regler:<img src="bilder/image_99.png"/></text>
+      <text klass="info">Skogsföretag positionerar sina avverkningsmaskiner (HARVESTERS) på de skogsområden (representerade av gröna hexagoner) där de har rättsliga avtal, ofta med lokala skogsvårdare eller myndigheter, att utföra avverkning.</text>
+      <text klass="info">I detta exempel visas ett område där de lokala myndigheterna (Local Authorities), d.v.s. regionen, har en överenskommelse med skogsföretaget som tillåter avverkning.</text>
+      <text klass="info">En fungerande väg (orange) måste också vara närvarande på hexagonen för att avverkningen ska kunna genomföras, vilket underlättar transport och logistik av de skördade resurserna.</text>
+      <text klass="info">Detta system illustrerar hur interaktionen mellan skogsföretag och infrastruktur är nödvändig för effektiv resurshantering och spelets strategiska djup kring resursutnyttjande.</text>
+    </underrubrik>
+    <underrubrik namn="15.3. Underhålla anläggningar" klass="heading2">
+      <text klass="info">Vid slutet av varje omgång är det dags för underhåll av alla anläggningar. Underhållsbehovet för varje anläggning representeras genom att skiftnycklar (se bild nedan) läggs på anläggningarna, normalt en per anläggning och omgång. För att reparera anläggningar kan spelarna välja att använda kort som "Skilled engineers" till höger om situationen. För att utföra underhåll måste alla spelare som äger anläggningar slå för MAINTENANCE genom att rulla två tärningar och sedan lägga till antalet skiftnycklar som redan är placerade på anläggningen till summan av tärningarna. Till exempel, om tärningarna visar 2 och 4, och anläggningen har tre skiftnycklar på sig, blir summan 2 + 4 + 3 = 9. Detta resulterar i att en extra skiftnyckel läggs till på anläggningen tills nästa omgång (se MAINTENANCE-kortet för ytterligare detaljer). För summor av 17 och högre anses anläggningen vara förstörd och kan inte längre användas. Detta innebär att spelaren måste ta itu med förlusten av anläggningen och eventuella konsekvenser som detta kan medföra för deras strategi och framgång i spelet. Se till att vara försiktig med underhållet av dina anläggningar för att undvika sådana katastrofala utfall.<img src="bilder/image_100.png"/><img src="bilder/image_101.png"/><img src="bilder/image_102.png"/></text>
+    </underrubrik>
+    <underrubrik namn="15.4. Resolve" klass="heading2">
+      <text klass="info">Vid avslutningen av varje spelrunda i "Att Vända Strömmen" utför skogsföretag följande aktiviteter:</text>
+      <text klass="info">Bokslut för företaget: Summering av ekonomisk prestation inklusive inkomster från försäljning av skogsmaterial och kostnader relaterade till skogsavverkning.</text>
+      <text klass="info">Antal FOREST MATERIAL: Översikt av hur mycket skogsmaterial som har skördats och är tillgängligt för försäljning eller vidare bearbetning.</text>
+      <text klass="info">Koldioxid (KOLDIOXID): Beräkning och rapportering av koldioxidutsläpp som skapats av företagets aktiviteter, vilket är ett viktigt mått i spelet givet dess fokus på hållbarhet och klimatpåverkan.</text>
+      <text klass="info">Aktieutdelning: Beslut om hur mycket av vinsten som ska delas ut till aktieägarna, vilket kan påverka investerarens tilltro och företagets långsiktiga finansiella stabilitet.</text>
+      <underrubrik namn="15.4.1. Bokslut för Forest companies" klass="heading3">
+        <text klass="info">Vid bokslutet för skogsföretag i spelet "Att Vända Strömmen" görs följande:</text>
+        <text klass="info">Tillgångar och skulder jämförs: Detta ger en överblick över företagets finansiella ställning vid slutet av spelrundan.</text>
+        <text klass="info">Summera kontrakt som ger inkomster: Totala inkomsterna från försäljning av skogsmaterial och andra intäkter räknas ihop.</text>
+        <text klass="info">Summera kontrakt som ger utgifter: Totala utgifter inklusive kostnader för skörd och transport av skogsmaterial samt andra utgifter räknas ihop.</text>
+        <text klass="info">Flytta markörerna för inkomster och utgifter: Justera markörerna på statuslinjalen för att visa nettovinsten eller nettoförlusten för den aktuella spelrundan.</text>
+        <text klass="info">Markera mängden skördad skog: Indikera hur mycket FOREST MATERIAL som tagits ut från skogen och är tillgängligt för försäljning eller användning.</text>
+        <text klass="info">Markera krävd transport: Ange hur många transporter som behövs för att förflytta det skördade materialet från skogen till företaget eller marknaden.</text>
+        <text klass="info">Dessa steg ger en helhetsbild av företagets ekonomiska och operativa prestation under spelrundan och lägger grunden för strategiska beslut i kommande runda</text>
+        <text klass="info">Koldioxidavtryck<img src="bilder/image_103.png"/></text>
+        <text klass="info">I samband med RESOLVE-fasen beräknas koldioxidavtrycket genom att spelarna samlar svarta stenar till sina bord och placeras på platsen där det står ”Historically emitted CO2”. För varje bricka med grå bakgrund som finns på spelplanen tilldelas varje bord 1 svart sten, vilket motsvarar 1000 ton koldioxidutsläpp.</text>
+        <text klass="info">För att beräkna koldioxidavtrycket börjar spelarna med att ta stenar från 1.5°-budgeten, sedan från 2°C-budgeten och till sist från 2.4°C-budgeten. Detta innebär att spelarna prioriterar att ta stenar från den mest ambitiösa klimatmålsättningen först och arbetar sig neråt.</text>
+        <text klass="info">För att hålla koll på koldioxidavtrycket markeras även antalet stenar på en avlång statuslinjal under omgången. Denna linjal visar hur många stenars avtryck varje bord har genererat under spelets gång. Till exempel, om matföretagen nedan har genererat nio stenar koldioxidavtryck, markeras detta på statuslinjalen för att hålla koll på deras klimatpåverkan.<img src="bilder/image_104.png"/></text>
+      </underrubrik>
+      <underrubrik namn="15.4.2. Aktieutdelning" klass="heading3">
+        <text klass="info">I "Att Vända Strömmen" är aktieutdelningen ett viktigt beslut för företagen att göra i slutet av varje spelomgång. Storleken på utdelningen är en procentuell andel av företagets aktiekapital och påverkar direkt aktieägarnas tillfredsställelse.<img src="bilder/image_105.png"/></text>
+        <text klass="info">Beslut om utdelning: Företaget bestämmer vilken procentandel av aktiekapitalet som ska delas ut till aktieägarna. Detta val kan bero på företagets vinst, strategiska överväganden eller för att uppfylla aktieägarnas förväntningar.</text>
+        <text klass="info">Utdelning per aktie: Utdelningen är lika för alla aktieägare och ger dem en likvärdig andel baserat på hur mycket aktiekapital de äger. Aktieägarna kan vara känsliga för utdelningens storlek och detta kan påverka deras fortsatta investering i företaget.</text>
+        <text klass="info">Minimigräns för utdelning: Det finns en minimigräns för utdelning, till exempel $4 per aktiepost, som kan vara nödvändig för att upprätthålla aktieägarnas förtroende. Om aktieägare får mindre än denna minimigräns kan de omvärdera sin investering i företaget.</text>
+        <text klass="info">Konsekvenser av otillräcklig utdelning: Om företaget inte kan ge en utdelning som är tillfredsställande, och aktieägarna kräver tillbaka sitt kapital, kan företaget stå inför en skuld till aktieägarna. Denna skuld innebär en skyldighet att betala tillbaka det ursprungliga investerade beloppet plus ränta.</text>
+      </underrubrik>
+    </underrubrik>
+  </rubrik>
+  <rubrik namn="16. Goods suppliers" klass="heading1">
+    <text klass="rubriktext">I spelet "Att Vända Strömmen" agerar GOODS SUPPLIERS som säljare av varor:</text>
+    <text klass="rubriktext">Försäljning av varor: GOODS SUPPLIERS säljer varor, benämnda som GOODS, till andra spelare eller entiteter inom spelet.</text>
+    <text klass="rubriktext">Import via Import Warehouse: Importerade varor köps från den internationella marknaden och förs in i spelet genom en funktion kallad Import Warehouse.</text>
+    <text klass="rubriktext">Lokalproduktion och samarbeten: Lokalt producerade varor kan också köpas direkt från REGIONAL INDUSTRIES, beroende på om ett kontrakt för försäljning finns upprättat mellan de två parterna.</text>
+    <text klass="rubriktext">Företagsfunktioner: Precis som andra företag i spelet har GOODS SUPPLIERS en struktur för inkomster och utgifter, och rollen som CEO och CFO kan vara viktig för att hantera företagets ekonomi.</text>
+    <text klass="rubriktext">Spelets mekanik ser ut att inkludera strategier för att balansera inköp och försäljning, hantera resurser och göra ekonomiska val som påverkar företagets framgång i spelvärlden.</text>
+    <underrubrik namn="16.1. Import warehouse" klass="heading2">
+      <text klass="info">Inom spelet "Att Vända Strömmen" har GOODS SUPPLIERS en viktig funktion för hantering av importerade varor genom en enhet kallad Import Warehouse:</text>
+      <text klass="info">Personal och Transport: Import Warehouse måste bemannas med 1 arbetskraft (WORKFORCE) och kräver transport (TRANSPORTATION) för att kunna operera effektivt. Personalen och transportkapaciteten verkar vara nödvändig för att hantera varor inom denna del av spelet.</text>
+      <text klass="info">Varuhantering: För varje varupost (GOODS) som importeras utan en färgad kant, skapas en motsvarande varupost som kan säljas inom regionen, vilket visas med en bård i färgen som motsvarar den specifika GOODS SUPPLIER.</text>
+      <text klass="info">Arbetskraftens kapacitet: Arbetskraften kan hantera ett maxantal varor som anges av den färgade cirkeln på rutan för personalen. Det finns olika arbetskraftstyper som kan hantera olika mängder varor: höginkomsttagare hanterar 8, medelinkomsttagare hanterar 10 och robotar hanterar 7. Arbetskraften kan hantera fler varor genom övertid till en extra kostnad per varupost.</text>
+      <text klass="info">Denna detaljerade information om spelkomponenten visar på en komplex struktur där planering, resurshantering och ekonomisk strategi är centrala för framgången hos GOODS SUPPLIERS inom spelvärlden.</text>
+      <img src="bilder/image_107.png"/>
+    </underrubrik>
+    <underrubrik namn="16.2. Resolve" klass="heading2">
+      <text klass="info">I spelet "Att vända strömmen" är du som varuleverantör ansvarig för viktiga delar av spelets ekonomi och miljöpåverkan. I slutet av varje runda måste du som spelare:</text>
+      <text klass="info">Avsluta bokföringen för ditt företag genom att balansera inkomster och utgifter och säkerställa att ditt företag är lönsamt.</text>
+      <text klass="info">Beräkna ditt företags koldioxidavtryck för att se till att du inte överstiger tilldelade utsläppsrätter.</text>
+      <text klass="info">Utföra aktieutdelning till dina aktieägare baserat på företagets vinst, vilket ökar ditt rykte och spelarnas tillfredsställelse.</text>
+      <text klass="info">Sköt om underhåll av dina anläggningar för att garantera fortsatt produktion och effektivitet.</text>
+      <text klass="info">Se över din produktionskedja och säkerställ att rätt antal varor produceras i förhållande till antalet varor som importeras, och att logistiken kring detta hanteras effektivt med avseende på tillgängliga transportmedel och arbetskraft.</text>
+      <text klass="info">Din förmåga att effektivt hantera dessa uppgifter kommer att vara avgörande för att upprätthålla en stark närvaro på marknaden och för att leda din företagsimperium till framgång.</text>
+      <underrubrik namn="16.2.1. Bokslut för goods supplier" klass="heading3">
+        <text klass="info">Vid avslutet av varje spelrunda i "Att vända strömmen", utför du som Goods Supplier följande steg för att göra upp bokslutet för din verksamhet:</text>
+        <text klass="info">Jämför företagets tillgångar och utgifter för att få en överblick av den ekonomiska ställningen och beräkna företagets balansräkning.</text>
+        <text klass="info">Summera alla kontrakt och affärshändelser som resulterat i inkomster för ditt företag.</text>
+        <text klass="info">Summera på samma sätt alla kontrakt och händelser som medfört utgifter.</text>
+        <text klass="info">Anpassa och flytta markörerna för inkomst och utgift på statuslinjalen för att spegla resultatet av din verksamhet.</text>
+        <text klass="info">Notera och dokumentera mängden varor som köpts in och levererats, samt hur mycket transportkapacitet som använts under räkenskapsperioden.</text>
+        <text klass="info">Slutligen, markera och överblicka hur mycket transport som krävs för din verksamhet för att säkerställa en smidig logistik för kommande runda.</text>
+        <text klass="info">Dessa åtgärder är avgörande för att säkerställa att din verksamhet som varuleverantör fungerar effektivt och lönsamt inom ramen för spelets dynamiska ekonomi.<img src="bilder/image_108.png"/></text>
+      </underrubrik>
+      <underrubrik namn="16.2.2. Underhålla anläggningar" klass="heading3">
+        <text klass="info">Vid slutet av varje omgång är det dags för underhåll av alla anläggningar. Underhållsbehovet för varje anläggning representeras genom att skiftnycklar (se bild nedan) läggs på anläggningarna, normalt en per anläggning och omgång. För att reparera anläggningar kan spelarna välja att använda kort som "Skilled engineers" till höger om situationen. För att utföra underhåll måste alla spelare som äger anläggningar slå för MAINTENANCE genom att rulla två tärningar och sedan lägga till antalet skiftnycklar som redan är placerade på anläggningen till summan av tärningarna. Till exempel, om tärningarna visar 2 och 4, och anläggningen har tre skiftnycklar på sig, blir summan 2 + 4 + 3 = 9. Detta resulterar i att en extra skiftnyckel läggs till på anläggningen tills nästa omgång (se MAINTENANCE-kortet för ytterligare detaljer).<img src="bilder/image_109.png"/></text>
+        <text klass="info">För summor av 17 och högre anses anläggningen vara förstörd och kan inte längre användas. Detta innebär att spelaren måste ta itu med förlusten av anläggningen och eventuella konsekvenser som detta kan medföra för deras strategi och framgång i spelet. Se till att vara försiktig med underhållet av dina anläggningar för att undvika sådana katastrofala utfall.<img src="bilder/image_110.png"/><img src="bilder/image_111.png"/></text>
+      </underrubrik>
+      <underrubrik namn="16.2.3. Koldioxidavtryck" klass="heading3">
+        <text klass="info">I samband med RESOLVE-fasen beräknas koldioxidavtrycket genom att spelarna samlar svarta stenar till sina bord och placeras på platsen där det står ”Historically emitted CO2”. För varje bricka med grå bakgrund som finns på spelplanen tilldelas varje bord 1 svart sten, vilket motsvarar 1000 ton koldioxidutsläpp.</text>
+        <text klass="info">För att beräkna koldioxidavtrycket börjar spelarna med att ta stenar från 1.5°-budgeten, sedan från 2°C-budgeten och till sist från 2.4°C-budgeten. Detta innebär att spelarna prioriterar att ta stenar från den mest ambitiösa klimatmålsättningen först och arbetar sig neråt.</text>
+        <text klass="info">För att hålla koll på koldioxidavtrycket markeras även antalet stenar på en avlång statuslinjal under omgången. Denna linjal visar hur många stenars avtryck varje bord har genererat under spelets gång. Till exempel, om matföretagen nedan har genererat nio stenar koldioxidavtryck, markeras detta på statuslinjalen för att hålla koll på deras klimatpåverkan.<img src="bilder/image_112.png"/></text>
+      </underrubrik>
+      <underrubrik namn="16.2.4. Aktieutdelning" klass="heading3">
+        <text klass="info">I "Att Vända Strömmen" är aktieutdelningen ett viktigt beslut för företagen att göra i slutet av varje spelomgång. Storleken på utdelningen är en procentuell andel av företagets aktiekapital och påverkar direkt aktieägarnas tillfredsställelse.<img src="bilder/image_113.png"/></text>
+        <text klass="info">Beslut om utdelning: Företaget bestämmer vilken procentandel av aktiekapitalet som ska delas ut till aktieägarna. Detta val kan bero på företagets vinst, strategiska överväganden eller för att uppfylla aktieägarnas förväntningar.</text>
+        <text klass="info">Utdelning per aktie: Utdelningen är lika för alla aktieägare och ger dem en likvärdig andel baserat på hur mycket aktiekapital de äger. Aktieägarna kan vara känsliga för utdelningens storlek och detta kan påverka deras fortsatta investering i företaget.</text>
+        <text klass="info">Minimigräns för utdelning: Det finns en minimigräns för utdelning, till exempel $4 per aktiepost, som kan vara nödvändig för att upprätthålla aktieägarnas förtroende. Om aktieägare får mindre än denna minimigräns kan de omvärdera sin investering i företaget.</text>
+        <text klass="info">Konsekvenser av otillräcklig utdelning: Om företaget inte kan ge en utdelning som är tillfredsställande, och aktieägarna kräver tillbaka sitt kapital, kan företaget stå inför en skuld till aktieägarna. Denna skuld innebär en skyldighet att betala tillbaka det ursprungliga investerade beloppet plus ränta.</text>
+      </underrubrik>
+    </underrubrik>
+    <img src="bilder/image_106.png"/>
+  </rubrik>
+  <rubrik namn="17. Transportation companies" klass="heading1">
+    <text klass="rubriktext">I spelet "Att vända strömmen" spelar du som ett transportföretag, med en kritisk roll i leveranskedjan. Dina uppgifter är som följer:<img src="bilder/image_114.png"/></text>
+    <text klass="rubriktext">Leverans av varor: Du är ansvarig för att transportera varor (GOODS) till andra spelbord genom ditt TRANSPORTATION SYSTEM. Planera och genomför transporter noggrant för att upprätthålla en effektiv leveranskedja.</text>
+    <text klass="rubriktext">Miljöpåverkan: Ditt val av bränsle påverkar spelets miljö. Användning av FOSSIL FUEL bidrar betydligt till CO2-utsläppen i spelet. Du måste väga kostnaden och effektiviteten av olika bränsletyper mot deras miljöpåverkan.</text>
+    <text klass="rubriktext">Ekonomisk översikt: Ditt företags ekonomi visas i det övre högra hörnet. Håll reda på inkomster och utgifter samt det aktuella saldot. Stora negativa siffror kräver omgående åtgärder för att förbättra finanserna.</text>
+    <text klass="rubriktext">Hållbarhetsprojekt: Utvärdera möjligheten att investera i projekt som kan minska din miljöpåverkan, såsom elektrifiering av vägar och uppbyggnad av laddinfrastruktur.</text>
+    <text klass="rubriktext">Som en strategisk spelare måste du balansera ditt företags ekonomiska framgång med ansvar för miljön och samarbeta med andra spelare för att uppnå spelets övergripande mål. Framgång mäts inte bara i pengar utan också i hur väl du lyckas navigera din verksamhet mot en mer hållbar framtid.</text>
+    <underrubrik namn="17.1. Transportation system" klass="heading2">
+      <text klass="info">I "Att vända strömmen" är TRANSPORTATION SYSTEM en kritisk komponent för varje spelares förmåga att leverera varor. Här är vad du behöver veta för att navigera detta system:</text>
+      <text klass="info">Personalbehov: Varje TRANSPORTATION SYSTEM måste drivas av minst en WORKFORCE. Det är dina ansvariga som håller systemet i gång och säkerställer att varorna når sina destinationer.</text>
+      <text klass="info">Kapacitet: Kapaciteten i ditt TRANSPORTATION SYSTEM är direkt beroende av arbetsstyrkan. En höginkomsttagare kan sköta upp till 10 transporter, medan medelinkomsttagare kan hantera 8 och en automatiserad arbetsstyrka hanterar 6 transporter. Det är viktigt att matcha arbetskraften med bränsletypen för optimal effektivitet.</text>
+      <text klass="info">Övertidsarbete: Dina arbetare kan drivas att arbeta ÖVERTID för att hantera extra bränsle (FUEL) och därmed öka transportkapaciteten. Detta sker till en extra kostnad men kan vara avgörande i knipa.</text>
+      <text klass="info">Bränsleeffekt: För varje bränsleenhet på ditt TRANSPORTATION SYSTEM ökar du din transportkapacitet med 10x. Oavsett om du använder fossilbränsle eller förnybart bränsle, blir effekten densamma, men kom ihåg miljökonsekvenserna av ditt val.</text>
+      <text klass="info">Ekonomisk inverkan: Ditt företag tjänar pengar genom att tillhandahålla TRANSPORT-tjänster till andra spelare. Din framgång är inte bara beroende av hur många varor du flyttar, utan även hur effektivt och hållbart du gör det.</text>
+      <text klass="info">Se till att du har en noggrann strategi för att hantera ditt TRANSPORTATION SYSTEM så att du kan stödja både din och andras affärsverksamheter, samtidigt som du bidrar till en hållbar spelvärld.</text>
+      <img src="bilder/image_115.png"/>
+    </underrubrik>
+    <underrubrik namn="17.2. Resolve" klass="heading2">
+      <text klass="info">När du spelar "Att vända strömmen" och hanterar ett TRANSPORTATION COMPANY, är din avslutningsfas lika viktig som din planering och utförande under spelets gång. Här är stegen du bör följa vid avslutningsfasen för ditt företag:</text>
+      <text klass="info">Bokslut: Gör en noggrann genomgång av ditt företags ekonomiska status. Jämför inkomster och utgifter för att bestämma din nettoresultat. Varje TRANSPORT-märke representerar en lyckad leverans och ska räknas som inkomst.</text>
+      <text klass="info">Miljöpåverkan: Beräkna ditt företags koldioxidavtryck baserat på antal FUEL som har förbrukats under spelomgången. Kom ihåg att olika bränsletyper kan ha olika miljöpåverkan.</text>
+      <text klass="info">Aktieutdelning: Baserat på företagets lönsamhet, bestäm hur mycket aktieutdelning som ska ges till aktieägarna. Detta är ett viktigt steg för att hålla dina investerare nöjda.</text>
+      <text klass="info">Underhåll: Gör underhåll av dina fordon och infrastruktur för att säkerställa att allt är i toppskick inför nästa omgång. En brist på underhåll kan leda till ineffektivitet och ökade kostnader.</text>
+      <text klass="info">Effektivitetskontroll: Kontrollera att den mängd TRANSPORT som tillhandahållits under spelets gång korrelerar med det totala antalet FUEL som använts. Tänk på att varje FUEL-enhet borde möjliggöra ett visst antal transporter (exempelvis 10xTRANSPORT per FUEL-enhet).</text>
+      <text klass="info">Genom att noggrant följa dessa steg i avslutningsfasen säkrar du företagets framtid och bidrar till spelets övergripande mål om hållbarhet och effektivitet.</text>
+      <underrubrik namn="17.2.1. Underhåll av anläggningar" klass="heading3">
+        <text klass="info">Vid slutet av varje omgång är det dags för underhåll av alla anläggningar. Underhållsbehovet för varje anläggning representeras genom att skiftnycklar (se bild nedan) läggs på anläggningarna, normalt en per anläggning och omgång. För att reparera anläggningar kan spelarna välja att använda kort som "Skilled engineers" till höger om situationen. För att utföra underhåll måste alla spelare som äger anläggningar slå för MAINTENANCE genom att rulla två tärningar och sedan lägga till antalet skiftnycklar som redan är placerade på anläggningen till summan av tärningarna. Till exempel, om tärningarna visar 2 och 4, och anläggningen har tre skiftnycklar på sig, blir summan 2 + 4 + 3 = 9. Detta resulterar i att en extra skiftnyckel läggs till på anläggningen tills nästa omgång (se MAINTENANCE-kortet för ytterligare detaljer).<img src="bilder/image_116.png"/></text>
+        <text klass="info">För summor av 17 och högre anses anläggningen vara förstörd och kan inte längre användas. Detta innebär att spelaren måste ta itu med förlusten av anläggningen och eventuella konsekvenser som detta kan medföra för deras strategi och framgång i spelet. Se till att vara försiktig med underhållet av dina anläggningar för att undvika sådana katastrofala utfall.<img src="bilder/image_117.png"/><img src="bilder/image_118.png"/></text>
+      </underrubrik>
+      <underrubrik namn="17.2.2. Bokslut för företag" klass="heading3">
+        <text klass="info">I slutet av varje spelomgång i "Att Vända Strömmen", är det dags för företagen att göra upp räkenskaperna. Bokslutet är en noggrann genomgång där företagens ekonomiska status utvärderas för att fastställa deras framsteg och hälsa. Spelarna måste:</text>
+        <text klass="info">Jämföra tillgångar och utgifter: Företagets totala tillgångar och utgifter jämförs för att avgöra den finansiella balansen. Detta moment är avgörande för att förstå företagets lönsamhet och ekonomiska stabilitet.</text>
+        <text klass="info">Summera kontrakt för inkomster: Spelarna granskar sina kontrakt och räknar samman alla inkomstgenererande avtal. Detta kan innefatta försäljning av varor, tjänster, och andra inkomstkällor.</text>
+        <text klass="info">Summera kontrakt för utgifter: På samma sätt summeras alla utgiftskontrakt. Det kan röra sig om kostnader för råmaterial, löner, underhåll och andra operativa utgifter.</text>
+        <text klass="info">Flytta markörer för inkomst och utgift: Efter att inkomster och utgifter har summerats, justerar spelarna sina markörer på statuslinjalen för att återspegla deras ekonomiska resultat. Detta ger en visuell representation av hur företaget har presterat under omgången.</text>
+        <text klass="info">Övervaka produktionsvolymen: För företag som producerar varor är det även viktigt att hålla koll på produktionsvolymen. En markör placeras längs med statuslinjalen för att visa hur mycket som har producerats och därmed indikera effektiviteten i företagets produktion.</text>
+      </underrubrik>
+      <underrubrik namn="17.2.3. Koldioxidavtryck" klass="heading3">
+        <text klass="info">I samband med RESOLVE-fasen beräknas koldioxidavtrycket genom att spelarna samlar svarta stenar till sina bord och placeras på platsen där det står ”Historically emitted CO2”. För varje bricka med grå bakgrund som finns på spelplanen tilldelas varje bord 1 svart sten, vilket motsvarar 1000 ton koldioxidutsläpp.</text>
+        <text klass="info">För att beräkna koldioxidavtrycket börjar spelarna med att ta stenar från 1.5°-budgeten, sedan från 2°C-budgeten och till sist från 2.4°C-budgeten. Detta innebär att spelarna prioriterar att ta stenar från den mest ambitiösa klimatmålsättningen först och arbetar sig neråt.</text>
+        <text klass="info">För att hålla koll på koldioxidavtrycket markeras även antalet stenar på en avlång statuslinjal under omgången. Denna linjal visar hur många stenars avtryck varje bord har genererat under spelets gång. Till exempel, om matföretagen nedan har genererat nio stenar koldioxidavtryck, markeras detta på statuslinjalen för att hålla koll på deras klimatpåverkan.<img src="bilder/image_119.png"/></text>
+      </underrubrik>
+      <underrubrik namn="17.2.4. Aktieutdelning" klass="heading3">
+        <text klass="info">I "Att Vända Strömmen" är aktieutdelningen ett viktigt beslut för företagen att göra i slutet av varje spelomgång. Storleken på utdelningen är en procentuell andel av företagets aktiekapital och påverkar direkt aktieägarnas tillfredsställelse.<img src="bilder/image_120.png"/></text>
+        <text klass="info">Beslut om utdelning: Företaget bestämmer vilken procentandel av aktiekapitalet som ska delas ut till aktieägarna. Detta val kan bero på företagets vinst, strategiska överväganden eller för att uppfylla aktieägarnas förväntningar.</text>
+        <text klass="info">Utdelning per aktie: Utdelningen är lika för alla aktieägare och ger dem en likvärdig andel baserat på hur mycket aktiekapital de äger. Aktieägarna kan vara känsliga för utdelningens storlek och detta kan påverka deras fortsatta investering i företaget.</text>
+        <text klass="info">Minimigräns för utdelning: Det finns en minimigräns för utdelning, till exempel $4 per aktiepost, som kan vara nödvändig för att upprätthålla aktieägarnas förtroende. Om aktieägare får mindre än denna minimigräns kan de omvärdera sin investering i företaget.</text>
+        <text klass="info">Konsekvenser av otillräcklig utdelning: Om företaget inte kan ge en utdelning som är tillfredsställande, och aktieägarna kräver tillbaka sitt kapital, kan företaget stå inför en skuld till aktieägarna. Denna skuld innebär en skyldighet att betala tillbaka det ursprungliga investerade beloppet plus ränta.</text>
+      </underrubrik>
+    </underrubrik>
+  </rubrik>
+  <rubrik namn="18. Offentlig sektor" klass="heading1">
+    <underrubrik namn="18.1. Interaktionsfas" klass="heading2">
+      <text klass="info">Under interaktionsfasen har laget i offentlig sektor ansvar för att säkerställa att samhällets grundläggande tjänster är tillgängliga och håller en hög standard. Detta innebär:<img src="bilder/image_121.png"/></text>
+      <text klass="info">Underhåll av infrastruktur och anläggningar: Spelet kräver att man aktivt underhåller och ser till att alla offentliga anläggningar och infrastruktur, såsom vägar, sjukhus och skolor, är i bra skick. Detta för att upprätthålla och förbättra befolkningens välmående.</text>
+      <text klass="info">Bemanning: Laget måste tilldela tillräcklig arbetskraft till de olika offentliga sektorer som krävs för att ge service till befolkningen. Detta inkluderar att balansera tilldelningen av arbetskraft utifrån inkomstnivåerna (hög, medel, låg) och att bemanna utifrån befintliga resurser.<img src="bilder/image_122.png"/></text>
+      <text klass="info">Tillgodoser befolkningens behov: Det är viktigt att ständigt uppfylla behoven hos regionens invånare. Detta kan innefatta hälsa, utbildning och social välfärd. Om en tjänst saknas, ges poängavdrag från välmåendeindikatorn.<img src="bilder/image_123.png"/></text>
+      <text klass="info">Transporter: Ett jämnt flöde av transporter är nödvändigt för att föra varor och tjänster till befolkningen. Antalet transporter måste motsvara antalet varor och tjänster som tillhandahålls.<img src="bilder/image_124.png"/></text>
+      <text klass="info">Minska koldioxidavtrycket: Strategier för att minska koldioxidutsläppen ska implementeras, till exempel genom att välja mer hållbara transportalternativ och energikällor.</text>
+      <text klass="info">Budget och resursfördelning: Laget måste bestämma hur budgeten ska användas för att ge offentlig service. Prioriteringar kan behöva göras baserat på tillgängliga resurser och regionens övergripande mål.</text>
+      <text klass="info">Aktieutdelning och avtryck: Slutligen är laget ansvarigt för att genomföra bokslut och se till att företaget är lönsamt, samtidigt som man beaktar miljöpåverkan och delar ut vinster till aktieägarna.</text>
+      <text klass="info">Detta är bara en översiktlig sammanfattning av de processer och ansvar som omfattas av den offentliga sektorns roll i spelet. Varje aspekt har djupare regler och konsekvenser som kan variera baserat på spelets specifika scenarier och situationer.</text>
+    </underrubrik>
+    <underrubrik namn="18.2. Tekniska avdelningen - Interaktionsfas" klass="heading2">
+      <text klass="info">Under denna fas ansvarar spelaren som hanterar den tekniska avdelningen för att upprätthålla och förbättra stadens kollektivtrafik och avfallshanteringssystem.</text>
+      <text klass="info">Kollektivtrafik:</text>
+      <text klass="info">För att möjliggöra för invånarna att använda miljövänliga transportalternativ krävs en utbyggnad och underhåll av kollektivtrafiknätverket.</text>
+      <text klass="info">Förändringar i befolkningstätheten påverkar behovet av kollektivtrafiktillgång. Detta innebär att spelaren behöver anpassa och utöka kollektivtrafiken för att möta den växande eller minskande befolkningens behov.</text>
+      <text klass="info">Sophantering:</text>
+      <text klass="info">Sophanteringssystemet ska hantera avfall för var femte invånare i en ruta på spelbrädet, samt hantera industriavfall.</text>
+      <text klass="info">Industrierna på brädet kommer att informera spelaren om när och var sophanteringstjänster behövs.</text>
+      <text klass="info">Drift och Energi:</text>
+      <text klass="info">Systemet kräver kombinationer av el och fossila bränslen för drift. I exemplet på bilden måste spelaren leverera 20 soptransporter, indikerat av två kolumner på "Waste collection system", där en kolonn använder el och den andra fossilt bränsle.</text>
+      <text klass="info">Målet med denna fas är att balansera ekonomisk effektivitet och miljöpåverkan genom att investera i och förbättra infrastruktur som bidrar till en hållbar stadsmiljö. Spelets dynamik gör att spelaren måste vara adaptiv och förutseende för att kunna svara på förändrade förhållanden och behov.</text>
+      <img src="bilder/image_125.png"/>
+    </underrubrik>
+    <underrubrik namn="18.3. Vägar &amp; transporter" klass="heading2">
+      <text klass="info">I spelet finns det vägar som kan hantera olika typer av fordon. Till exempel kan en 3-väg hantera avfallsbilar, transporter och höginkomsttagarnas bilar. Här är några viktiga regler och förhållanden som gäller för transport av fordon på kartan:</text>
+      <text klass="info">Hantering av Fordonstyper på Vägar: Varje typ av väg kan hantera olika typer av fordon. Till exempel kan en 3-väg på ett ställe hantera avfallsbilar, transporter och höginkomsttagarnas bilar, medan en annan 3-väg kan hantera kollektivtrafik samt biltrafik för medel- och låginkomsttagare. Fordonstyperna måste anpassas efter vägarnas kapacitet och syfte.</text>
+      <text klass="info">Antal Bilar och Transportbehov: Antalet bilar som behöver transporteras på hela kartan motsvarar antalet energibrickor (bränsle eller el) på befolkningsbordens transportbricka, specifikt kategorierna "Commuting" och "Shopping &amp; hobbies". Bilarna finns i områden där respektive befolkningsgrupp också bor.</text>
+      <text klass="info">Kollektivtrafik: Kollektivtrafik kan hantera 2 befolkningsmarkörer var. Till exempel kan tre låginkomsttagare pendla till arbetet med hjälp av en bil och en buss, om det finns tillgängligt.</text>
+      <text klass="info">Lastbilstillägg: För varje 40:e transport som levereras av transportföretagen läggs en lastbil ut på en väg i samma ruta som en industribyggnad. Detta bidrar till att simulera transportverksamhetens omfattning och effektivitet.</text>
+      <text klass="info">Sophanteringsbil: Om det finns fler än 5 befolkningsmarkörer på en ruta krävs också en sophanteringsbil för att hantera avfall. Detta säkerställer att städer och samhällen effektivt hanterar sitt avfall och håller områdena rena och trivsamma.</text>
+    </underrubrik>
+    <underrubrik namn="18.4. Waste" klass="heading2">
+      <text klass="info">I "Att Vända Strömmen" hanterar företagen avfall som en integrerad del av deras verksamhet. Varje gång tre enheter av råvaror har förbrukats, genererar detta en enhet avfall. Detta spelelement åskådliggör vikten av hållbarhet och påminner spelarna om de miljöpåverkningar som deras produktion medför.</text>
+      <text klass="info">För att hantera avfallet, kan spelarna välja att investera i återvinningsprocesser. Genom att betala 3 dollar kan en avfallsenhet omvandlas till återvunnet material, vilket kan användas som en resurs i spelet. Denna mekanism uppmuntrar spelarna att tänka på långsiktiga strategier för avfallshantering och resursoptimering.</text>
+      <text klass="info">När mer avfall eller återvunnet material genereras, är det viktigt att informera den tekniska avdelningen (Technical Department) i spelet. Denna avdelning har hand om logistiken kring transport och hantering av avfall och återvunna material. Genom att samarbeta med den tekniska avdelningen kan spelarna säkerställa att deras avfall hanteras korrekt, vilket minskar miljöpåverkan och bidrar till en mer hållbar spelvärld.</text>
+      <text klass="info">Denna avfalls- och återvinningsmekanism är inte bara en kritisk aspekt av spelstrategin utan tjänar även som en pedagogisk punkt om betydelsen av ansvarsfull resurshantering i både spel och verklighet.</text>
+      <underrubrik namn="18.4.1. Underhåll av anläggningar" klass="heading3">
+        <text klass="info">Vid slutet av varje omgång är det dags för underhåll av alla anläggningar. Underhållsbehovet för varje anläggning representeras genom att skiftnycklar (se bild nedan) läggs på anläggningarna, normalt en per anläggning och omgång. För att reparera anläggningar kan spelarna välja att använda kort som "Skilled engineers" till höger om situationen. För att utföra underhåll måste alla spelare som äger anläggningar slå för MAINTENANCE genom att rulla två tärningar och sedan lägga till antalet skiftnycklar som redan är placerade på anläggningen till summan av tärningarna. Till exempel, om tärningarna visar 2 och 4, och anläggningen har tre skiftnycklar på sig, blir summan 2 + 4 + 3 = 9. Detta resulterar i att en extra skiftnyckel läggs till på anläggningen tills nästa omgång (se MAINTENANCE-kortet för ytterligare detaljer).<img src="bilder/image_126.png"/></text>
+        <text klass="info">För summor av 17 och högre anses anläggningen vara förstörd och kan inte längre användas. Detta innebär att spelaren måste ta itu med förlusten av anläggningen och eventuella konsekvenser som detta kan medföra för deras strategi och framgång i spelet. Se till att vara försiktig med underhållet av dina anläggningar för att undvika sådana katastrofala utfall.<img src="bilder/image_127.png"/><img src="bilder/image_128.png"/></text>
+      </underrubrik>
+      <underrubrik namn="18.4.2. Koldioxidavtryck" klass="heading3">
+        <text klass="info">I samband med RESOLVE-fasen beräknas koldioxidavtrycket genom att spelarna samlar svarta stenar till sina bord och placeras på platsen där det står ”Historically emitted CO2”. För varje bricka med grå bakgrund som finns på spelplanen tilldelas varje bord 1 svart sten, vilket motsvarar 1000 ton koldioxidutsläpp.</text>
+        <text klass="info">För att beräkna koldioxidavtrycket börjar spelarna med att ta stenar från 1.5°-budgeten, sedan från 2°C-budgeten och till sist från 2.4°C-budgeten. Detta innebär att spelarna prioriterar att ta stenar från den mest ambitiösa klimatmålsättningen först och arbetar sig neråt.</text>
+        <text klass="info">För att hålla koll på koldioxidavtrycket markeras även antalet stenar på en avlång statuslinjal under omgången. Denna linjal visar hur många stenars avtryck varje bord har genererat under spelets gång. Till exempel, om matföretagen nedan har genererat nio stenar koldioxidavtryck, markeras detta på statuslinjalen för att hålla koll på deras klimatpåverkan.<img src="bilder/image_129.png"/></text>
+      </underrubrik>
+    </underrubrik>
+  </rubrik>
+  <rubrik namn="19. Bank &amp; finans" klass="heading1">
+    <text klass="rubriktext">Interaktionsfas - Bank &amp; Finans</text>
+    <text klass="rubriktext">I "Att vända strömmen" är banksektorn ryggraden i ekonomin och under interaktionsfasen spelar den en avgörande roll för spelets finansiella flöden.</text>
+    <text klass="rubriktext">Utlåning:</text>
+    <text klass="rubriktext">Som banken kan ni erbjuda lån till andra spelare och företag på brädet. Ett lån formaliseras genom ett bindande avtal som definierar lånevillkoren, inklusive räntor och återbetalningstid.</text>
+    <text klass="rubriktext">Räntanpassning:</text>
+    <text klass="rubriktext">Baserat på den riksbankens räntepolicy (indikerad som 'National bank rate') måste ni justera de räntor som ni erbjuder eller tar för lån. Detta kan påverka både befintliga och nya lånavtal. Var beredda att reagera på förändringar i den nationella räntesatsen för att behålla er konkurrenskraft och lönsamhet.</text>
+    <text klass="rubriktext">Investeringsförmedling:</text>
+    <text klass="rubriktext">Som bank kan ni också agera mellanhand för att förmedla investeringar från riskkapitalister till företag i behov av kapital. Investerarnas riskbenägenhet och krav på avkastning kommer att variera, och det är upp till er att matcha rätt investerare med rätt företag för att maximera avkastningen och stödja tillväxten.<img src="bilder/image_130.png"/></text>
+    <text klass="rubriktext">Kom ihåg att bankens roll inte bara är att maximera egen vinst, utan också att bidra till en hållbar ekonomisk tillväxt i spelet. Effektiv kapitalallokering och riskhantering blir nyckeln till framgång både för banken och för spelets ekonomi som helhet.</text>
+    <underrubrik namn="19.1. Investeringar" klass="heading2">
+      <text klass="info">Investeringsaspekten av "Att vända strömmen" låter spelarna engagera sig med den globala marknaden för att attrahera och behålla investerare baserat på företagets prestanda och utdelningskapacitet.</text>
+      <text klass="info">Globala investerare:</text>
+      <text klass="info">Från den globala marknaden kan spelare dra till sig investerare genom att erbjuda en del av sitt företags kapital. Investerarnas beslut att engagera sig i en region beror på den potentiella utdelningen de kan förvänta sig från sina investeringar.</text>
+      <text klass="info">Utdelning och Investeringars Stabilitet:</text>
+      <text klass="info">I spelet visas investeringsmöjligheter som 'Share capital'. Dessa investeringar är aktiva så länge som företaget kan upprätthålla en lönsam utdelning – i detta exempel $5 för varje $20 investerat, vilket motsvarar en utdelning på 25%. Om utdelningen faller under detta värde, riskerar företaget att förlora sina investeringar.</text>
+      <text klass="info">Investeringsdynamik:</text>
+      <text klass="info">Det är viktigt att förstå investeringsdynamiken; när företagen presterar väl och ger en hög avkastning, förblir investeringarna stabila. Om företagets prestation sjunker och inte längre kan ge den förväntade utdelningen, kan investerarna dra sig tillbaka, vilket påverkar företagets kapital och tillväxtpotential.</text>
+      <text klass="info">Som en del av banksektorn eller som ett företag som söker kapital, måste spelarna strategiskt balansera risken och belöningen för att locka och behålla investerare, vilket i sin tur påverkar deras förmåga att expandera och innovativa inom spelets ekosystem.<img src="bilder/image_131.png"/></text>
+    </underrubrik>
+    <underrubrik namn="19.2. Resolve" klass="heading2">
+      <text klass="info">I avslutningsfasen av varje runda i "Att vända strömmen" hanterar bank- och finansaktörerna sina finansiella åtaganden och utdelningar. Här är några kritiska handlingar som måste beaktas:<img src="bilder/image_132.png"/></text>
+      <text klass="info">Aktieutdelning:</text>
+      <text klass="info">Spelare måste administrera utdelningar till sina aktieägare, vilket reflekterar företagets lönsamhet och finansiella hälsa.</text>
+      <text klass="info">Räntebetalningar:</text>
+      <text klass="info">Betalning av räntor till riksbanken eller enligt andra lånevillkor måste ske i enlighet med rådande räntesatser. Räntekostnader påverkas av den centrala referensräntan (som reporäntan) och spelare måste anpassa sina betalningar därefter.<img src="bilder/image_133.png"/></text>
+      <text klass="info">Inkomster från Lån:</text>
+      <text klass="info">Om spelarna har gett ut lån, så kommer de att motta ränteinkomster baserat på de räntor de har etablerat, vilket bidrar till deras inkomstström.</text>
+      <text klass="info">Marknadsuppdateringar:</text>
+      <text klass="info">Spelare måste hålla sig uppdaterade med marknadsförändringar, såsom ränteförändringar, som kan påverka deras kostnader och intäkter. De måste vara proaktiva i att anpassa sina strategier för att behålla eller förbättra sin konkurrenskraft.</text>
+      <text klass="info">Att upprätthålla finansiell balans är avgörande för varje spelares framgång i spelet, vilket gör denna fas till en viktig tidpunkt för strategisk planering och beslutsfattande.</text>
+      <underrubrik namn="19.2.1. Marknadsläget" klass="heading3">
+        <text klass="info">I avslutningsfasen av varje spelrunda i "Att vända strömmen", hanterar bank- och finanssektorn avkastning och prestation på investeringar. Följande steg är centrala för att förstå marknadsläget:<img src="bilder/image_134.png"/></text>
+        <text klass="info">Översikt av Utdelningar:</text>
+        <text klass="info">En översikt presenteras som visar aktuell utdelningsprocent som mottagits från olika investeringar, både inom regionen och på externa marknader. Denna information är kritisk för spelare för att kunna utvärdera och jämföra investeringsavkastning.</text>
+        <text klass="info">Investeringsprestanda:</text>
+        <text klass="info">Investeringsavkastningen visualiseras med hjälp av markörer som indikerar de procentuella utdelningarna som varje företag eller investeringsmöjlighet ger. Spelarna måste använda denna data för att fatta informerade beslut om framtida investeringar eller ombalansering av portföljen.</text>
+        <text klass="info">Företags- och Obligationsutdelningar:</text>
+        <text klass="info">Detaljerade exempel, såsom 10% utdelning från företag som Conglomo, Boxhome, Elementa &amp; Regional Industries, visar spelarna nivån på avkastning som kan förväntas. Dessutom visas avkastning från andra investeringar såsom EU-obligationer (från ECB) och svenska statsobligationer, vilket ger spelarna en tydlig bild av de olika avkastningsnivåerna i spelet.</text>
+        <text klass="info">Att upprätthålla och förbättra denna avkastning är av yttersta vikt för bank- och finansaktörernas framgång i spelet och kräver noggrann uppmärksamhet vid varje rundas slut.</text>
+      </underrubrik>
+      <underrubrik namn="19.2.2. Aktieutdelning" klass="heading3">
+        <text klass="info">I "Att Vända Strömmen" är aktieutdelningen ett viktigt beslut för företagen att göra i slutet av varje spelomgång. Storleken på utdelningen är en procentuell andel av företagets aktiekapital och påverkar direkt aktieägarnas tillfredsställelse.<img src="bilder/image_135.png"/></text>
+        <text klass="info">Beslut om utdelning: Företaget bestämmer vilken procentandel av aktiekapitalet som ska delas ut till aktieägarna. Detta val kan bero på företagets vinst, strategiska överväganden eller för att uppfylla aktieägarnas förväntningar.</text>
+        <text klass="info">Utdelning per aktie: Utdelningen är lika för alla aktieägare och ger dem en likvärdig andel baserat på hur mycket aktiekapital de äger. Aktieägarna kan vara känsliga för utdelningens storlek och detta kan påverka deras fortsatta investering i företaget.</text>
+        <text klass="info">Minimigräns för utdelning: Det finns en minimigräns för utdelning, till exempel $4 per aktiepost, som kan vara nödvändig för att upprätthålla aktieägarnas förtroende. Om aktieägare får mindre än denna minimigräns kan de omvärdera sin investering i företaget.</text>
+        <text klass="info">Konsekvenser av otillräcklig utdelning: Om företaget inte kan ge en utdelning som är tillfredsställande, och aktieägarna kräver tillbaka sitt kapital, kan företaget stå inför en skuld till aktieägarna. Denna skuld innebär en skyldighet att betala tillbaka det ursprungliga investerade beloppet plus ränta.</text>
+      </underrubrik>
+      <underrubrik namn="20. Researchers" klass="heading3">
+        <text klass="info">Inom ramen för brädspelet "Att vända strömmen" spelar forskare och deras projekt en kritisk roll för att driva framsteg och innovation. Här är en sammanfattning av forskningsdelen i regelboken:</text>
+        <text klass="info">Projekttyper:</text>
+        <text klass="info">Spelare som tar rollen som forskare kan genomföra projekt inom fyra huvudområden: Ingenjörsvetenskap, Ekonomi, Statsvetenskap samt Humaniora. Varje område bidrar på sitt sätt till spelets framsteg och möjliggör olika strategiska fördelar.</text>
+        <text klass="info">Finansieringsmodeller:</text>
+        <text klass="info">Forskningsprojekten kan finansieras antingen genom grundfinansiering, känd som Basic funding, som representerar stabila forskningsanlag, eller genom specifika bidrag som riktas mot enskilda forskningsinriktningar, benämnda Research facilities. Detta val av finansieringsväg kan påverka tillgängligheten och varaktigheten av forskningen.</text>
+        <text klass="info">Projektkort och Implementering:</text>
+        <text klass="info">För att aktivera och genomföra forskningsprojekten använder spelarna projekt kort som representerar de olika forskningsinsatserna. Dessa kort är nyckeln till att möjliggöra övergång och utveckling i spelets regioner och kan ge spelarna specifika fördelar eller nödvändiga verktyg för att hantera framkommande utmaningar.</text>
+        <text klass="info">Spelet kräver att spelarna noggrant överväger sina val av forskningsprojekt och strategiskt utnyttjar resurser för att maximera deras positiva inverkan på spelets värld. Forskning är en grundsten för framgång i "Att vända strömmen".</text>
+      </underrubrik>
+    </underrubrik>
+    <underrubrik namn="20.1. Basanslag" klass="heading2">
+      <text klass="info">I spelet "Att vända strömmen" representerar grundfinansiering en stabil bas för forskningsaktiviteter. Här är en översikt av reglerna som rör grundfinansieringen:</text>
+      <text klass="info">Projektens Natur:</text>
+      <text klass="info">Forskningsprojekt som genomförs inom ramen för grundfinansiering kräver specifika resursbrickor som motsvarar forskningsområdets natur. Till exempel, för ett ingenjörsvetenskapsprojekt används brickor som representerar detta område.</text>
+      <text klass="info">Statligt Stöd och Villkor:</text>
+      <text klass="info">Staten tillhandahåller grundfinansiering för tre forskare med förutsättningen att universiteten erbjuder tillgänglig högre utbildning för regionens befolkning. Detta stöd manifesterar sig i spelet genom placering av forskningsbrickor på universitet.</text>
+      <text klass="info">Utbildningskrav:</text>
+      <text klass="info">För att nyttja grundfinansieringen måste det finnas tillräckligt med tillgångar till högre utbildning i regionen. Dessa tillgångar symboliseras av higher education-brickor som spelarna kan lägga ut på universitetsfältet på spelbrädet.</text>
+      <text klass="info">Implementering i Spelet:</text>
+      <text klass="info">Spelare använder universitetsområdet för att indikera tillgången på högre utbildning, vilket i sin tur gör det möjligt att genomföra forskning inom olika discipliner. Varje bricka som placeras representerar statens bidrag till att främja utbildning och forskning, vilket är avgörande för spelets framsteg.</text>
+      <text klass="info">Denna mekanik understryker vikten av utbildning som en drivkraft för forskning och innovation i spelet, och spelare måste strategiskt planera sina resurser för att utnyttja dessa fördelar.<img src="bilder/image_136.png"/></text>
+    </underrubrik>
+    <underrubrik namn="20.2. Forskningsfaciliteter" klass="heading2">
+      <text klass="info">I "Att vända strömmen" representerar forskningsfaciliteterna en viktig resurs för forskare:</text>
+      <text klass="info">Bidrag och Kostnad:</text>
+      <text klass="info">Forskare kan få engångsbidrag från andra spelare för att stödja sina forskningsfaciliteter. Dessa bidrag symboliseras av pokermarker till en kostnad av $5 varje, och representerar den ekonomiska insatsen för att genomföra ett forskningsprojekt.<img src="bilder/image_137.png"/></text>
+      <text klass="info">Spelbrickor och Forskningsprojekt:</text>
+      <text klass="info">Genom att investera i forskningsfaciliteter får forskarna tillgång till en hexagonal spelbricka som motsvarar en specifik forskningstyp. Detta möjliggör genomförande av projekt inom den givna disciplinen.</text>
+      <text klass="info">Spelmekanik:</text>
+      <text klass="info">Dessa pokermarker används för att aktivera forskningsfaciliteter på spelbrädet. Genom att placera dessa marker på de tilldelade områdena, kan spelaren påbörja forskningsprojekt och avancera vetenskapliga upptäckter inom spelets värld.</text>
+      <text klass="info">Spelare måste väga kostnaden för dessa marker mot den potentiella vetenskapliga framstegen de erbjuder. Att välja rätt tidpunkt och typ av forskningsfaciliteter kan vara avgörande för framgången i spelet.</text>
+    </underrubrik>
+  </rubrik>
+  <rubrik namn="21. Hantering av projektkort" klass="heading1">
+    <text klass="rubriktext">Projektkorten i spelet är kritiska för regional utveckling och framsteg. Här är en genomgång av hanteringen av projektkorten:</text>
+    <text klass="rubriktext">Projektkategorier:</text>
+    <text klass="rubriktext">Spelet innehåller fem olika kategorier av projektkort, var och en representerad av en ikon: Skog (träd), Vatten (vattendroppe), Säkerhet (sköld), Kaffe (kaffeböna), och Energi (blixt).</text>
+    <text klass="rubriktext">Regionalt Tillstånd och Finansiering:</text>
+    <text klass="rubriktext">För varje kategori av projektkort kan regionen bevilja tillstånd och allokera finansiering för investeringar. Detta är regionens ansvar att besluta vilka projekt som ska erhålla de nödvändiga medlen och godkännandet för att framskrida.</text>
+    <text klass="rubriktext">Regionala Rådets Roll:</text>
+    <text klass="rubriktext">Det regionala rådet (regional council) spelar en nyckelroll genom att besluta vilka projekt inom de olika kategorierna som ska få tillstånd och finansiering. Dessa beslut påverkar direkt hur regionen utvecklas och vilka förmågor den kommer att ha.</text>
+    <text klass="rubriktext">Spelets dynamik kring projektkort kräver att spelarna noggrant överväger vilka projekt som ska prioriteras för att stärka regionens infrastruktur och resurser. Att balansera olika behov mot begränsade resurser är en kärnaspekt av spelets strategi.</text>
+  </rubrik>
+</regelbok>

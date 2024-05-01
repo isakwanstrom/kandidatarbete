@@ -1,0 +1,152 @@
+/* style.css */
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 99%;
+    height: 100%;
+    /*box-sizing: border-box; /* Lägger till så att padding och border inte påverkar elementens totala bredd och höjd */
+}
+
+/* Se till att alla containers tar upp 90% av hela bredden */
+.container {
+    width: 90%;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    padding-left: 20px;
+}
+
+/* Styla huvudrubrikerna */
+.heading1, .heading2, .heading3 {
+    width: 100%; /* Fyll bredden för bättre utnyttjande av utrymmet */
+    padding: 10px; /* Lämplig padding för att undvika att text klibbar mot kanterna */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Lätt skuggning för att visuellt separera rubriker */
+}
+
+
+/* Responsiv design för tablets */
+@media (max-width: 768px) {
+    .heading1, .heading2, .heading3 {
+        font-size: 1.5rem; /* Öka storleken för lättare läsbarhet */
+    }
+    .rubriktext, .info {
+        font-size: 1.3rem; /* Större textstorlek för lättare läsbarhet */
+    }
+}
+
+/* Anpassningar för mycket små skärmar, typ mobiltelefoner */
+@media (max-width: 480px) {
+    .heading1, .heading2, .heading3 {
+        font-size: 1.7rem; /* Ytterligare ökad storlek för små skärmar */
+    }
+    .rubriktext, .info {
+        font-size: 1.5rem; /* Tydligare textstorlek på mindre enheter */
+    }
+}
+
+
+@media (max-width: 480px) { /* För mobiltelefoner */
+    img {
+        width: 100%;
+    }
+    .heading1, .heading2, .heading3 {
+        font-size: 1.7rem; /* Ännu mindre text på mycket små skärmar */
+    }
+}
+
+.menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 90%;
+    height: 100vh; /* Använder viewport height för att fylla skärmen vertikalt */
+    background-color: rgba(0, 0, 0, 0.9); /* Halvtransparent svart bakgrund, ändra färgen efter behov */
+    z-index: 1000; /* Se till att menyn ligger ovanpå andra element */
+    display: flex; /* Använder flexbox för att centrera menyalternativen */
+    justify-content: center;
+    align-items: center;
+}
+
+header, nav, main, footer {
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #f0f0f0;
+}
+
+main {
+    margin: 20px 0;
+}
+
+footer {
+    background-color: #d0d0d0;
+}
+
+.rubriktext {
+    padding: 5px 10px; /* Minskad padding för rubriktext */
+}
+
+.heading2 {
+    color: #007BFF; /* Blå färg för länkar */
+    cursor: pointer; /* Visa en pekare för att indikera klickbarhet */
+    font-weight: bold; /* Gör texten fet */
+}
+
+
+.heading2::after {
+    /*content: '▼'; /* Lägger till en pil nedåt efter rubriken */
+    display: inline-block;
+    margin-left: 5px; /* Lite mellanrum mellan text och ikon */
+}
+
+
+
+/* Stilar för content class */
+.content {
+    display: none; /* Använd din JavaScript för att hantera visning */
+}
+
+
+
+li {
+    margin: 20px; /* Lägger till lite utrymme mellan varje listelement */
+}
+
+.heading1 {
+    display: block; /* Gör så att rubrikerna tar upp hela bredden av sin förälder */
+    padding: 8px; /* Lägger till lite padding för bättre klickyta och utseende */
+    cursor: pointer; /* Visar en pekare för att indikera att elementet är klickbart */
+    text-decoration: none; /* Tar bort understrykning */
+    color: #333; /* Mörk textfärg för bättre läsbarhet */
+}
+
+.heading1:hover{
+    background-color: #f0f0f0; /* Lägger till en hover-effekt för att indikera interaktivitet */
+}
+.heading2:hover, .heading3:hover{
+    color: darkblue; /* Lägger till en hover-effekt för att indikera interaktivitet */
+}
+
+.content {
+    padding-left: 20px; /* Indenterar innehållet för att skapa en hierarki */
+    color: black;
+    padding-top: 15px;
+}
+/* Stil för huvudlistan */
+ul {
+    padding-left: 0;
+    list-style-type: none;
+}
+
+.info, .rubriktext{
+    margin-top: 20px;
+    color: black;
+}
+
+.rubriktext{
+    font-size: large;
+}
